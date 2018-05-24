@@ -7,60 +7,59 @@ using System.Threading.Tasks;
 
 namespace huffman {
     class HuffmanNode : IComparable<HuffmanNode> {
-        public string Symbol;   // For the character of char value. Public because Process class use it.
-        public int Frequency;          // Number of the count on file, string, text.
-        public BitArray Code;            // Getting from a tree for making a huffman tree.
-        public HuffmanNode ParentNode; // Parent Node of current Node.
-        public HuffmanNode LeftTree;   // Left Node of current Node.
-        public HuffmanNode RightTree;  // Right Node of current Node.
-        public bool IsLeaf;            // Shows it is a leaf.
+        // For the character that the node represents
+        public string Symbol;
+        // The amount of times the character as shown up in the text
+        public int Frequency;
+        // The binary code that describes its location in the huffman tree
+        public BitArray Code;
+        // Left child node of current node.
+        public HuffmanNode LeftChildNode;
+        // Right child node of current node.
+        public HuffmanNode RightChildNode;
+        // Describes wether or not the node is the final node that descibes a single symbol
+        public bool IsLeaf;
 
-
-        public HuffmanNode(string value) {    // Creating a Node with given value(character).
-            Symbol = value;     // Setting the symbol.
-            Frequency = 1;      // This is creation of Node, so now its count is 1.
-
-            RightTree = LeftTree = ParentNode = null;       // Does not have a left or right tree and a parent.
-
-            Code = new BitArray(new bool[] { });          // It will be Assigned on the making Tree. Now it is empty.
-            IsLeaf = true;      // Because all Node we create first does not have a parent Node.
+        // The constructor for a HuffmanNode that is a leaf
+        public HuffmanNode(string value) {
+            // Setting the symbol
+            Symbol = value;
+            // This is creation of Node, so now its count is 1
+            Frequency = 1;
+            // It will be filled up when the tree is made
+            Code = new BitArray(new bool[] { });
+            // Because it has a symbol and is therefore a leaf
+            IsLeaf = true;
         }
 
-
-        public HuffmanNode(HuffmanNode node1, HuffmanNode node2) { // Join the 2 Node to make Node.
-
-            // Firsly we are adding this 2 Nodes' variables. Except the new Node's left and right tree.
+        // The constructor for a HuffmanNode that is not a leaf
+        public HuffmanNode(HuffmanNode node1, HuffmanNode node2) {
+            // Init the BitArray
             Code = new BitArray(new bool[] { });
+            // It has no symbol and is therefore not a leaf
             IsLeaf = false;
-            ParentNode = null;
 
-            // Now the new Node need leaf. They are node1 and node2. if node1's frequency is bigger than or equal to node2's frequency. It is right tree. Otherwise left tree. The controllers are below:
-            if (node1.Frequency >= node2.Frequency) {
-                RightTree = node1;
-                LeftTree = node2;
-                RightTree.ParentNode = LeftTree.ParentNode = this;     // "this" means the new Node!
+            // The node of the highest frequency is placed right, and the symbols and frequncies
+            // are added together as the symbol and frequency of this node
+            if (node1.Frequency > node2.Frequency) {
+                RightChildNode = node1;
+                LeftChildNode = node2;
                 Symbol = node1.Symbol + node2.Symbol;
                 Frequency = node1.Frequency + node2.Frequency;
             }
-            else if (node1.Frequency < node2.Frequency) {
-                RightTree = node2;
-                LeftTree = node1;
-                LeftTree.ParentNode = RightTree.ParentNode = this;     // "this" means the new Node!
+            else {
+                RightChildNode = node2;
+                LeftChildNode = node1;
                 Symbol = node2.Symbol + node1.Symbol;
                 Frequency = node2.Frequency + node1.Frequency;
             }
         }
 
-
-        public int CompareTo(HuffmanNode otherNode) { // We just override the CompareTo method. Because when we compare two Node, it must be according to frequencies of the Nodes.
-
+        // This method is from the IComparable<HuffmanNode> interface
+        // It makes sure that when we sort a list or array of this class,
+        // it will sort it based on frequency
+        public int CompareTo(HuffmanNode otherNode) {
             return this.Frequency.CompareTo(otherNode.Frequency);
-        }
-
-
-        public void FrequencyIncrease() {             // When facing a same value on the Node list, it is increasing the frequency of the Node.
-
-            Frequency++;
         }
     }
 }
