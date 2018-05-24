@@ -112,46 +112,41 @@ namespace huffman {
         }
         // this method creates a tree based on text
         public static HuffmanTree CreateFromText(string text) {
-            return GetTreeFromList(GetListFromText(text));
-        }
-        //this sets the color of the console to cyan
-        private static void SetColor() {
-            Console.ForegroundColor = ConsoleColor.Cyan;
-        }
-        //this sets the color of the console to the default white
-        private static void SetColorDefault() {
-            Console.ForegroundColor = ConsoleColor.White;
-        }
-        // Creates a Node List that reading the characters on the file.
-        private static List<HuffmanNode> GetListFromText(string text) {
-            List<HuffmanNode> nodeList = new List<HuffmanNode>();  // Node List.
+            // the list that we wanna fill up with nodes
+            List<HuffmanNode> nodeList = new List<HuffmanNode>();
+            // all the characters from the text
             char[] characters = text.ToCharArray();
+            // loop thought the characters
             for (int i = 0; i < characters.Length; i++) {
+                // the character as a string
                 string read = characters[i].ToString();
-                // Checking the value that have you created before?
+                // has the node already been created?
                 if (nodeList.Exists(x => x.Symbol == read)) {
                     // If is yes, find the index of the Node and increase the frequency of the Node.
                     nodeList[nodeList.FindIndex(y => y.Symbol == read)].Frequency++;
                 }
                 else {
-                    nodeList.Add(new HuffmanNode(read));   // If is no, create a new node and add to the List of Nodes
+                    // If is no, create a new node and add to the List of Nodes
+                    nodeList.Add(new HuffmanNode(read));   
                 }
             }
+            // sort them, this is done based on frequency because of IComparable<HuffmanNode>.CompareTo
             nodeList.Sort();
-            return nodeList;
-        }
-
-
-        //  Creates a Tree according to Nodes(frequency, symbol)
-        private static HuffmanTree GetTreeFromList(List<HuffmanNode> nodeList) {
-            while (nodeList.Count > 1) {  // 1 because a tree need 2 leaf to make a new parent.
-                HuffmanNode node1 = nodeList[0];    // Get the node of the first index of List,
-                nodeList.RemoveAt(0);               // and delete it.
-                HuffmanNode node2 = nodeList[0];    // Get the node of the first index of List,
-                nodeList.RemoveAt(0);               // and delete it.
-                nodeList.Add(new HuffmanNode(node1, node2));    // Sending the constructor to make a new Node from this nodes.
-                nodeList.Sort();        // and sort it again according to frequency.
+            // loop thought them, until only one is left
+            while (nodeList.Count > 1) {
+                // Get the node of the first index of List, this is the one with the lowest frequency
+                HuffmanNode node1 = nodeList[0];
+                // and delete it.
+                nodeList.RemoveAt(0);           
+                // do the same thing again
+                HuffmanNode node2 = nodeList[0];
+                nodeList.RemoveAt(0);
+                // make a parant node with node1 and node2 and the left and right child nodes
+                nodeList.Add(new HuffmanNode(node1, node2));
+                // and sort it again according to frequency.
+                nodeList.Sort();        
             }
+            // create a tree based on the remaining root node
             HuffmanTree tree = new HuffmanTree(nodeList[0]);
             void SetCodeToTheTree(HuffmanNode Nodes, BitArray code = null) {
                 if (code == null) {
@@ -172,6 +167,14 @@ namespace huffman {
             }
             SetCodeToTheTree(tree.Root);
             return tree;
+        }
+        //this sets the color of the console to cyan
+        private static void SetColor() {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+        }
+        //this sets the color of the console to the default white
+        private static void SetColorDefault() {
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
 
