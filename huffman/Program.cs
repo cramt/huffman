@@ -4,10 +4,30 @@ using System.Collections.Generic;
 using System.IO;
 using System.Threading;
 
+
 namespace huffman {
     class Program {
         static void Main(string[] args) {
+            List<WikiArticle> words = AskWiki.Words(new string[] {
+                "denmark",
+                "cola",
+                "guitar",
+                "music",
+                "biology",
+                "hair",
+                "leg",
+                "organs",
+                "food",
+                "memes"
+            }).GetAwaiter().GetResult();
+            foreach(var word in words) {
+                Console.WriteLine(word.title);
+            }
+            Thread.Sleep(-1);
+        }
+        static void _Main(string[] args) {
             Console.Title = "Huffman Code";
+
             string text = "" +
 @"I've got another confession to make
 I'm your fool
