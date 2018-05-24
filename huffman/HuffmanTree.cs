@@ -148,24 +148,37 @@ namespace huffman {
             }
             // create a tree based on the remaining root node
             HuffmanTree tree = new HuffmanTree(nodeList[0]);
-            void SetCodeToTheTree(HuffmanNode Nodes, BitArray code = null) {
+            // this is a recursive function to set the binary code of every leaf node
+            void setCodeToTheTree(HuffmanNode Nodes, BitArray code = null) {
+                // if the current code is not set, set it to an empty BitArray
                 if (code == null) {
                     code = new BitArray(new bool[] { });
                 }
-                if (Nodes == null)
+                // if the code is empty do nothing
+                if (Nodes == null) {
                     return;
+                }
+                // if there is no left node and right node, then set the code based on the current code
                 if (Nodes.LeftChildNode == null && Nodes.RightChildNode == null) {
                     Nodes.Code = code;
                     return;
                 }
+                // create a bitlist for the left node
                 BitList left = BitList.Parse(code);
+                // add false for the left side
                 left.Add(false);
-                SetCodeToTheTree(Nodes.LeftChildNode, left.ToBitArray());
+                // call this function recursively, with the left bitlist and the left side node
+                setCodeToTheTree(Nodes.LeftChildNode, left.ToBitArray());
+                // create a bitlist for the right node
                 BitList right = BitList.Parse(code);
+                // add true for the right side
                 right.Add(true);
-                SetCodeToTheTree(Nodes.RightChildNode, right.ToBitArray());
+                // call the function recursively, with the right bitlist and the right side node
+                setCodeToTheTree(Nodes.RightChildNode, right.ToBitArray());
             }
-            SetCodeToTheTree(tree.Root);
+            // call the recursive function
+            setCodeToTheTree(tree.Root);
+            // the tree
             return tree;
         }
         //this sets the color of the console to cyan
@@ -178,29 +191,39 @@ namespace huffman {
         }
 
 
-        // Printing all Tree! Recursive method.
+        // this is a recursive method to print the tree
         public void PrintTree(int level, HuffmanNode node = null) {
+            // if node is null use the root
             if (node == null) {
                 node = Root;
             }
+            // print a tab for every level
             for (int i = 0; i < level; i++) {
                 Console.Write("\t");
             }
+            // print the symbol
             Console.Write("[" + node.Symbol + "]");
+            // set color
             SetColor();
-            Console.WriteLine("(" + node.Code + ")");
+            // print the code
+            Console.WriteLine("(" + node.Code.Print() + ")");
+            // set the color back to default
             SetColorDefault();
+            // call this method recursivly with the right and left node, and on more level
             PrintTree(level + 1, node.RightChildNode);
             PrintTree(level + 1, node.LeftChildNode);
         }
 
 
-        //  Printing the Node's information on the nodeList
+        // this is a recursive method to print the information, but not as a tree like the last one
         public void PrintInformation(HuffmanNode node = null) {
+            // if node is null use the root
             if (node == null) {
                 node = Root;
             }
-            Console.WriteLine("Symbol : {0} - Frequency : {1}", node.Symbol, node.Frequency);
+            // print the symbol, code and frequency
+            Console.WriteLine("Symbol : " + node.Symbol + " -  Code : " + node.Code.Print() + " - Frequency : " + node.Frequency);
+            // if it is not a leaf call the function recursivly for left and right
             if (!node.IsLeaf) {
                 PrintInformation(node.LeftChildNode);
                 PrintInformation(node.RightChildNode);
@@ -208,15 +231,18 @@ namespace huffman {
         }
 
 
-        // Printing the symbols and codes of the Nodes on the tree.
+        // this is a recursive method to print the information, but only the leafs
         public void PrintfLeafAndCodes(HuffmanNode node = null) {
+            // if node is null use the root
             if (node == null) {
                 node = Root;
             }
+            // if there is no left and right node, print the symbol, code and frequency. Then return
             if (node.LeftChildNode == null && node.RightChildNode == null) {
                 Console.WriteLine("Symbol : " + node.Symbol + " -  Code : " + node.Code.Print() + " - Frequency : " + node.Frequency);
                 return;
             }
+            // recursivly call this method for the left and right node
             PrintfLeafAndCodes(node.LeftChildNode);
             PrintfLeafAndCodes(node.RightChildNode);
         }
