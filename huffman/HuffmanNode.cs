@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace huffman {
+    [Serializable]
     class HuffmanNode : IComparable<HuffmanNode> {
         // For the character that the node represents
         public string Symbol;

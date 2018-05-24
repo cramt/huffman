@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Threading;
 
 
@@ -10,6 +12,7 @@ namespace huffman {
         public const string OUTPUT_DIR = "output";
         static void Main(string[] args) {
             List<WikiArticle> articles = AskWiki.Words(new string[] {
+                /*
                 "denmark",
                 "cola",
                 "guitar",
@@ -19,8 +22,12 @@ namespace huffman {
                 "leg",
                 "organs",
                 "food",
-                "english"
+                "english"*/
             }).GetAwaiter().GetResult();
+            articles.Add(new WikiArticle() {
+                extract = "this is a test",
+                title = "REEE",
+            });
             if (Directory.Exists(OUTPUT_DIR)) {
                 Directory.Delete(OUTPUT_DIR, true);
             }
@@ -56,6 +63,16 @@ namespace huffman {
                     "original size: " + (article.extract.Length * 8) + " b",
                     "compressed size: " + encodedData.Length + " b",
                     "compression percentage: " + (100*((double)encodedData.Length/((double)article.extract.Length * 8))) + "%",
+                    "tree size as json: " + (tree.JSONEncode().Length * 8) + " b",
+                    "tree size as bytes: " + (new Func<string>(() => {
+                        byte[] bytes;
+                        IFormatter formatter = new BinaryFormatter();
+                        using (MemoryStream stream = new MemoryStream()){
+                            formatter.Serialize(stream, tree);
+                            bytes = stream.ToArray();
+                        }
+                        return "" + bytes.Length;
+                    }))() + " b",
                     "lossness: " + (article.extract == decodedData ? "yes" : (new Func<string>(()=>{
                         string re = "no" + Environment.NewLine;
                         if(article.extract.Length == decodedData.Length) {

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 
 namespace huffman {
+    [Serializable]
     class HuffmanTree {
         // The "root" of the Huffman tree, which is the upmost node
         // It is read only for everything outside the class
@@ -91,13 +92,6 @@ namespace huffman {
             HuffmanNode currentNode = Root;
             //loop thought all the bits
             for (int i = 0; i < bits.Count; i++) {
-                // if the current node is a leaf
-                if (currentNode.IsLeaf) {
-                    // add the symbol to the str variable
-                    str += currentNode.Symbol;
-                    // go back to the root of the tree
-                    currentNode = Root;
-                }
                 //if it is a 1, take the right node
                 if (bits[i]) {
                     currentNode = currentNode.RightChildNode;
@@ -105,6 +99,13 @@ namespace huffman {
                 //if it is a 0, take the left node
                 else {
                     currentNode = currentNode.LeftChildNode;
+                }
+                // if the current node is a leaf
+                if (currentNode.IsLeaf) {
+                    // add the symbol to the str variable
+                    str += currentNode.Symbol;
+                    // go back to the root of the tree
+                    currentNode = Root;
                 }
             };
             // return the decoded symbols
