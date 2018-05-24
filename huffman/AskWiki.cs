@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace huffman {
@@ -42,6 +43,7 @@ namespace huffman {
                     if(c.extract == "") {
                         continue;
                     }
+                    c.extract = Encoding.ASCII.GetString(Encoding.ASCII.GetBytes(c.extract));
                     re.Add(c);
                 }
             }
