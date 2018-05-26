@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
+using System.Text;
 using System.Threading;
 
 
@@ -11,6 +12,7 @@ namespace huffman {
     class Program {
         public const string OUTPUT_DIR = "output";
         static void Main(string[] args) {
+            //HuffmanTree.EncodingType = Encoding.UTF8;
             List<WikiArticle> articles = AskWiki.Words(new string[] {
                 /*
                 "denmark",
@@ -25,7 +27,7 @@ namespace huffman {
                 "english"*/
             }).GetAwaiter().GetResult();
             articles.Add(new WikiArticle() {
-                extract = "this is a test",
+                extract = "this is a æøå",
                 title = "REEE",
             });
             if (Directory.Exists(OUTPUT_DIR)) {

@@ -43,7 +43,7 @@ namespace huffman {
                     if(c.extract == "") {
                         continue;
                     }
-                    c.extract = Encoding.ASCII.GetString(Encoding.ASCII.GetBytes(c.extract));
+                    c.extract = HuffmanTree.EncodingType.GetString(HuffmanTree.EncodingType.GetBytes(c.extract));
                     re.Add(c);
                 }
             }

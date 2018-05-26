@@ -7,6 +7,8 @@ using System.Text;
 namespace huffman {
     [Serializable]
     class HuffmanTree {
+        public static Encoding EncodingType = Encoding.ASCII;
+        
         // The "root" of the Huffman tree, which is the upmost node
         // It is read only for everything outside the class
         public HuffmanNode Root { get; } = null;
