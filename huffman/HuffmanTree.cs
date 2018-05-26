@@ -7,7 +7,10 @@ using System.Text;
 namespace huffman {
     [Serializable]
     class HuffmanTree {
-        public static Encoding EncodingType = Encoding.ASCII;
+
+        // This is a static property for the type of encoding that the text should use
+        // The standart is UTF-8 because we are danish and æøå does not exist in ASCII
+        public static Encoding EncodingType = Encoding.UTF8;
         
         // The "root" of the Huffman tree, which is the upmost node
         // It is read only for everything outside the class
