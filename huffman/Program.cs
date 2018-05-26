@@ -13,23 +13,12 @@ namespace huffman {
         public const string OUTPUT_DIR = "output";
         static void Main(string[] args) {
             //HuffmanTree.EncodingType = Encoding.UTF8;
-            List<WikiArticle> articles = AskWiki.Words(new string[] {
-                /*
-                "denmark",
-                "cola",
-                "guitar",
-                "music",
-                "biology",
-                "hair",
-                "leg",
-                "organs",
-                "food",
-                "english"*/
-            }).GetAwaiter().GetResult();
-            articles.Add(new WikiArticle() {
-                extract = "this is a æøå",
-                title = "REEE",
-            });
+            List<Article> articles = new List<Article> {
+                new Article() {
+                    title = "den danske grundlov",
+                    extract = SomeRandomText.DenDanskeGrundlov
+                }
+            };
             if (Directory.Exists(OUTPUT_DIR)) {
                 Directory.Delete(OUTPUT_DIR, true);
             }
