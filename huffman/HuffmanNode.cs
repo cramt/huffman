@@ -11,7 +11,7 @@ namespace huffman {
         // For the character that the node represents
         public string Symbol;
         // The amount of times the character as shown up in the text
-        public int Frequency;
+        public uint Frequency;
         // The binary code that describes its location in the huffman tree
         public BitArray Code;
         // Left child node of current node.
