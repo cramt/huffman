@@ -1,0 +1,4013 @@
+﻿This is a digital copy of a book that was prcscrvod for generations on library shelves before it was carefully scanned by Google as part of a project 
+
+to make the world's books discoverablc online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+
+are our gateways to the past, representing a wealth of history, cultuie and knowledge that's often difficult to discover. 
+
+Marks, notations and other maiginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
+
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain lx)oks l>elong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we liave taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automatcd querying. 
+We also ask that you: 
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+person al, non-commercial purposes. 
+
++ Refrainfivm automated querying Do nol send aulomated queries of any sort to Google's system: If you are conducting research on machine 
+translation, Optical character recognition or other areas where access to a laige amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may t« able to help. 
+
++ Maintain attributionTht GoogX'S "watermark" you see on each file is essential for informingpeopleabout this project and helping them find 
+additional materials tlirough Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are lesponsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can'l offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
+anywhere in the world. Copyright infringement liabili^ can be quite seveie. 
+
+About Google Book Search 
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps rcaders 
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full icxi of ihis book on the web 
+
+at |http : //books . google . com/| 
+
+
+
+Google 
+
+
+
+Dette er en digital kopi af en bog, der har været bevaret i generationer på bibliotekshylder, før den omhyggeligt er scannet af Google 
+
+som del af et projekt, der går ud på at gøre verdens bøger tilgængelige online. 
+
+Den har overlevet længe nok til, at ophavsretten er udløbet, og til at bogen er blevet offentlig ejendom. En offentligt ejet bog er en bog, 
+
+der aldrig har været underlagt copyright, eller hvor de juridiske copyright vilkår er udløbet. Om en bog er offentlig ejendom varierer fra 
+
+land til land. Bøger, der er offentlig ejendom, er vores indblik i fortiden og repræsenterer en rigdom af historie, kultur og viden, der 
+
+ofte er vanskelig at opdage. 
+
+Mærker, kommentarer og andre marginalnoter, der er vises i det oprindelige bind, vises i denne fil - en påmindelse om denne bogs lange 
+
+rejse fra udgiver til et bibliotek og endelig til dig. 
+
+Retningslinjer for anvendelse 
+
+Google er stolte over at indgå partnerskaber med biblioteker om at digitalisere offentligt ejede materialer og gøre dem bredt tilgængelige. 
+Offentligt ejede bøger tilhører alle og vi er blot deres vogtere. Selvom dette arbejde er kostbart, så har vi taget skridt i retning af at 
+forhindre misbrug fra kommerciel side, herunder placering af tekniske begrænsninger på automatiserede forespørgsler for fortsat at 
+kunne tilvejebringe denne kilde. 
+Vi beder dig også om følgende: 
+
+• Anvend kun disse filer til ikkc-konnnerdolt brug 
+
+Vi designede Google Bogsøgning til enkeltpersoner, og vi beder dig om at bruge disse filer til personlige, ikke-kommercielle formål. 
+
+• Undlad at bruge automatiserede forespørgsler 
+
+Undlad at sende automatiserede søgninger af nogen som helst art til Googles system. Hvis du foretager undersøgelse af m;iskl- 
+noversættelse, optisk tegngenkendelse eller andre områder, hvor adgangen til store mængder tekst er nyttig, bør du kontakte os. 
+Vi opmuntrer til anvendelse af offentligt ejede materialer til disse formål, og kan måske hjælpe. 
+
+• Bevar tilegnelse 
+
+Det Google- "vandmærke" du ser på hver fil er en vigtig måde at fortælle mennesker om dette projekt og hjælpe dem med at finde 
+yderligere materialer ved brug af Google Bogsøgning. Lad være med at fjerne det. 
+
+• Overhold reglerne 
+
+Uanset hvad du bruger, skal du huske, at du er ansvarlig for at sikre, at dot du gør er lovligt. Antag ikke, at bare fordi vi tror, 
+at en bog er offentlig ejendom for brugere i USA, at værket også er offentlig ejendom for brugere i andre lande. Om en bog 
+stadig er underlagt copyright varierer fra land til land, og vi kan ikke tilbyde vejledning i, om en bestemt anvendelse af en bog er 
+tilladt. Antag ikke at en bogs tilstedeværelse i Google Bogsøgning betyder, at den kan bruges på enhver måde overalt i verden. 
+Erstatningspligten for krænkelse af copyright kan være ganske alvorlig. 
+
+Om Google Bogsøgning 
+
+Det er Googles mission at organisere alverdens oplysninger for at gøre dem almindeligt tilgængelige og nyttige. Google Bogsøgning 
+hja^lper læsere med at opdage alverdens bøger, samtidi g med at det hjælper forfatter e og udgivere med at nå nye målgrupper. Du kan 
+søge gcnnom hele teksten i denne bog på interncttct på |http : //hooks . google ■ com| 
+
+
+
+^^^o 
+
+
+
+
+EUKLIDS ELEMENTER 
+
+
+
+I-II 
+
+
+
+OVERSAT AF 
+
+
+
+THYRA EIBE 
+
+CAND. MAG. 
+
+
+
+Med en Indledning af Prof., Dr. H. G. Zeuthen 
+
+
+
+
+KØBENHAVN 
+
+GYLDENDALSKE BOGHANDELS FORLAG (F. HEGEL & SØN) 
+Trykt hos J. Jørgensen & Co. (M. A. Hannover \ 
+
+t p ' 
+
+
+
+
+W Y •" f^ K 
+
+LIS. ...,, 
+
+5 16 
+
+ENOX AND 
+UNDATIONS. 
+
+900. L 
+
+
+
+» * • to * 
+
+«, • • 
+
+k « • 
+
+* > 
+
+
+
+FORORD. 
+
+
+
+c/ 
+
+
+
+^ 
+
+
+
+o 
+o 
+
+
+
+6> 
+
+
+
+Ved denne Oversættelse af Euklids to første 
+Bøger har jeg nøje fulgt den nyeste græske Ud- 
+
+^ gave (ved Heiberg 1883); kun har jeg indført 
+Plustegn, Lighedstegn og Tegn for Vinkel, Tre- 
+kant, Parallelogram, Rektangel og Kvadrat. Dette 
+strider dog ikke mod den græske Form, da 
+Euklid ogsaa bruger Forkortelser. Saaledes 
+hedder f. Eks. Vinkelen ABC paa Græsk 7)vnb 
+ABF (udeladt ^^wWo). Desuden har jeg ligesom 
+Professor Heiberg i den latinske Oversættelse i 
+anden Bog tilføjet de til de geometriske Sæt- 
+
+V) ninger svarende algebraiske Formler. 
+
+> 
+/ 
+
+
+
+IV 
+
+Til Slut vil jeg takke Professorerne H. G. 
+Zeuthen og J. L. Heiberg samt Docent A. B. 
+Drachmann for den gode Hjælp, jeg har faaet 
+af dem under Arbejdet. 
+
+Kjøbenhavn, d. 15de Maj 1897. 
+
+Thyra Eibe. 
+
+
+
+INDLEDNING. 
+
+
+
+Mathematikeren Euklid levede og virkede 
+omtrent 300 Aar før Chr. i Alexandria, som den 
+Gang var Midtpunktet for Grækernes aandelige 
+Liv, og hvor lærelystne Ynglinge samledes fra 
+de mange Egne, hvor det græske Folk havde 
+nedsat sig. Han har givet yderst værdifulde 
+Bidrag til sit Fags videre Udvikling ; men frem- 
+for alt mindes han som den, der har samlet 
+sin Tids elementære Mathematik til en sammen- 
+hængende Lærebygning. Det er denne, som inde- 
+holdes i hans af 13 Bøger bestaaende Værk: 
+Euklids Elementer, 
+
+Ved sine omfattende Synsmaader og ved 
+den Fuldstændighed og store Nøjagtighed, hvor- 
+med disse vare gennemførte, fortrængte Euklids 
+sikre Tankebygning snart alle Arbejder i lig- 
+
+
+
+VI 
+
+nende Retning af Forgængere, som sikkert i 
+mange Henseender have forberedt Stoffet for 
+Euklid, men paa hvem man nu kun kj ender nogle 
+Navne. Saalænge Mathematiken vedblev at 
+blomstre hos Grækerne, var det Euklids Ele- 
+menter, som lagdes til Grund, og fra hvilke alle 
+videregaaende Undersøgelser toge deres Udgangs- 
+punkt. Dette Værk har spillet samme Rolle 
+paa de Steder, hvortil den græske Mathematik 
+senere har forplantet sig, hos Araberne i Middel- 
+alderen og hos den nyere Tids Europæere. 
+Endnu i de Aarhundreder, som gaa nærmest 
+forud for vort, søgte de største Mathematikere, 
+f. Eks. Newton, tilbage til Euklid for at finde 
+en fast Grundvold for Arbejder, der række langt 
+ud over de Omraader, som Grækerne betraadte. 
+Netop .derved opnaaede man selv at blive for- 
+staaet, thi Euklid var alles fælles Læremester. 
+Ja der er endnu Lande, hvor man den Dag i 
+Dag bruger hans Elementer som Lærebog. 
+
+Kan der end indvendes adskilligt mod dette 
+sidste — og jeg kunde levere mit Bidrag til disse 
+Indvendinger — saa fortjene Euklids Elementer 
+dog at kendes af enhver, som interesserer sig 
+for Mathematik. I dem se vi, hvilken Skikkelse 
+dette Fag havde hos det Folk, der først gjorde 
+
+
+
+VII 
+
+det til en Videnskab. Hans Behandling giver 
+os Nøglen til den rette Forstaaelse af de Ar- 
+bejder, som i de efterfølgende 2000 Aar have 
+haft hans Elementer til Grundlag. Meget saavel 
+af den almindelige Opfattelse som af Enkelt- 
+heder er ogsaa gaaet over i Nutidens Lærebøger. 
+Det er af Betydning hos Euklid at se dette i dets 
+oprindelige Sammenhæng, som kan forklare 
+meget, som ellers vilde synes tilfældigt. Særlig 
+dette Hensyn vil gøre Kendskab til Euklid frugt- 
+bringende for Lærere. 
+
+Af alle disse Grunde kræver vort Universitet 
+ved sin Skoleembedseksamen Kendskab tilEuk- 
+lids Elementer. I Overensstemmelse herme^d 
+har jeg i min udgivne »Forelæsning over Mathe- 
+mathikens Historie. (Oldtid og Middelalder)« 
+lagt en særlig stor Vægt paa at forklare dette 
+Skrift, dets Synsmaader og Fremstillingsform og 
+disses Sammenhæng med den hele mathematiske 
+Udvikling, og jeg har paa mange Steder henvist 
+til Enkeltheder, som maa ses efter hos Euklid 
+selv. Derfor maa jeg ønske hans Værk i Hæn- 
+derne ej blot paa de mathematiske Studerende, 
+men paa alle dem, som læse min Bog. At mange 
+med Udbytte ville læse Euklid, er iøvrigt ikke 
+tvivlsomt i vort Land, hvor der ikke blot er en 
+
+
+
+vin 
+
+ret udbredt Interesse for Mathematiken, men 
+hvor man tillige i store Kredse med Held har 
+forsøgt at give den indledende Undervisning i 
+dette Fag en historisk Form. 
+
+Trods de mange Tilsætninger og Smaaæn- 
+dringer, svarende til de vekslende Tiders Krav, 
+for hvilke en saa anvendt Bog har været udsat 
+allerede i Oldtiden, kjendes »Elementernes« op- 
+rindelige Tekst ret godt. I den paalideligste 
+Skikkelse fremtræder den i vor Landsmand, 
+Prof J. L. Heibergs nye Udgave, i hvilken de 
+sagkyndige i alle Lande med Tillid søge deres 
+Oplysninger, og som ved sin skarpe Skelnen 
+mellem ægte og uægte har ydet væsentlige Bi- 
+drag til at retlede Forstaaelsen af Mathematiken 
+paa Euklids Tid. Deh græske Tekst er vel i 
+denne Udgave ledsaget af en latinsk Oversæt- 
+telse; men selv paa dette Sprog er den util- 
+gængelig for mange af dem, der vilde have 
+størst Udbytte af Indholdet. Dette Indhold er 
+godt og betydeligt nok til at læses i vort Mo- 
+dersmaal ogsaa af dem blandt os, der forstaa 
+Latin og til Nød kunne arbejde sig gennem lidt 
+Græsk. 
+
+Det er derfor en god Tanke af Frøken 
+Eibe at have begyndt en dansk Oversættelse af 
+
+
+
+IX 
+
+Euklids Elementer efter Heibergs Udgave. Den 
+nu foreliggende Del af hendes Oversættelse til- 
+fredsstiller alle Fordringer til Nøjagtighed og 
+er udført med den bedst mulige filologiske 
+Bistand. 
+
+Mærkelig nok har det endog været muligt 
+at gengive en enkelt, hyppig tilbagekommende 
+og derfor betydningsfuld Vending rigtigere paa 
+Dansk, end det kan ske paa Latin. Man vil 
+nemlig se, at selv i de saakaldte Problemer, 
+hvor en eller anden Figur ønskes konstrueret 
+(som i I, 2, 3, 9, lo o. s. v. i isteBog), Kon- 
+struktionen kun angives med følgende Udtryk: 
+Lad den og den Linie være tegnet, det og det 
+Punkt være taget. Dette stemmer med den 
+græske Sprogform, medens Latinen kun har 
+kunnet gengive dem, som om der stod: »Lad 
+Linien bliv^ tegnet. Punktet blive taget,« eller 
+simplere: »Man tegne, tage« eller: »Tegn, tag« 
+altsaa som Forskrifter. Idet nu Euklid i den 
+nyere Tid først er udbredt i latinske Oversæt- 
+telser, er man i Almindelighed kommen til i 
+hans Problem at se det samme som i de nu- 
+værende Konstruktionsopgaver. Om end denne 
+Opfattelse ikke er helt urigtig, overses dog derved 
+et Hovedformaal for de Gamles Problemer, nemlig 
+
+
+
+X 
+
+det at tjene til Bevis for, at visse Figurer ere 
+mulige i Almindelighed, eller for at de udtrykke- 
+lig angivne Betingelser for deres Mulighed ere 
+tilstrækkelige. At Problemerne netop have 
+denne Betydning i den græske Mathematik har 
+jeg tidligere andensteds paavist, men det er 
+Frøken Eibes danske Oversættelse, som alle- 
+rede før den blev trykt, har baaret den Frugt 
+at gøre mig opmærksom paa, at Euklids 
+egen Udtryksmaade stemmer med min Opfat- 
+telse, idet Euklid ikke fremsætter sine Kon- 
+struktioner i Regler, hvorefter noget skal ud- 
+føres, men mere som noget, der udføres for at 
+faa noget at vide. Samme Udtryksmaade bruges 
+i de Konstruktioner, som anvendes i Beviserne 
+for de egentlige Læresætninger; men ved dem 
+har den mangelfulde latinske Gengivelse ikke 
+kunnet hidføre nogen Misforstaaelse. 
+
+Det er endnu kun de 2 første Bøger af 
+Elementerne, som udkomme paa Dansk. I den 
+første vil man, skønt Euklids Udtryksmaade i 
+Indledningen er langt mindre fuldstændig end 
+i hans Sætninger og Beviser, genkende de samme 
+geometriske Begreber, som vi nu behandle, og 
+i selve Bogen vil man beundre den Sikkerhed 
+hvormed hver Sten i Bygningen føjes ind, før 
+
+
+
+XI 
+
+der skal bygges videre paa den. I anden Bog 
+faar man en Porestilling om den geometriske 
+Form, som Grækerne gav saadanne Undersø- 
+gelser, som vi nu henregne til Algebra, og i 
+hvilke de naaede op til Ligninger af anden 
+Grad. Jeg haaber, at disse to Bøger skulle 
+slaa saa godt an, at hverken Oversætterinden 
+eller Gyldendalske Boghandel vil betænke sig 
+paa at gaa videre. Først da vil Oversættelsen 
+faa hele den Betydning, som jeg her har til- 
+lagt den. 
+
+Kjøbenhavn, den 15de Maj 1897. 
+
+H, G, Zeuthen. 
+
+
+
+I. 
+
+Definitioner. 
+
+
+
+1. Et Punkt er det, som ikke kan deles. 
+
+2. En Linie er en Længde uden Bredde. 
+
+3. En Linies Grænser ere Punkter. 
+
+4. En ret Linie er en Linie, som ligger 
+lige mellem Punkterne paa den. 
+
+5. En Flade er det, som kun har Længde 
+og Bredde. 
+
+6. En Flades Grænser ere Linier. 
+
+7. En plan Flade er en Flade, som ligger 
+lige mellem de rette Linier i den. 
+
+8. En plan Vinkel er Heldningen mellem 
+to Linier, som ligge i samme Plan, have et Punkt 
+fælles og ikke ligge paa ret Linie. 
+
+9. Naar de Linier, der indeslutte Vinkelen 
+ere rette, kaldes Vinkelen retlinet. 
+
+
+
+10. Naar en ret Linie er oprejst paa en 
+anden, saa at de ved Siden af hinanden lig- 
+gende Vinkler blive ligestore, er enhver af de 
+ligestore Vinkler ret; og den Linie, der er op- 
+rejst paa den anden, kaldes lodret paa den 
+anden. 
+
+11. En stump Vinkel er en, som er større ' 
+end en ret. 
+
+12. En spidsvinkel er en, som er mindre 
+end en ret. 
+
+13. Omkreds er Grænsen for noget. 
+
+14. En Figur er det, som indesluttes af 
+en eller flere Omkredse. 
+
+15. En Cirkel er en plan Figur, indesluttet 
+af een saadan Linie (som kaldes Periferien), at 
+alle de rette Linier, der kunne drages ud til 
+den fra eet indenfor Figuren liggende Punkt, ere 
+indbyrdes ligestore. 
+
+16. Dette Punkt kaldes Centrum i Cir- 
+kelen. 
+
+17. En Diameter i Cirkelen er en ret Linie, 
+trukken gennem Centrum og begrænset til begge 
+Sider af Cirkelperiferien; den halverer ogsaa 
+Cirkelen. 
+
+18. En Halvcirkel er en Figur, som inde- 
+sluttes af en Diameter og den af Diameteren 
+
+
+
+V 
+
+
+
+afskaame Periferi. Halvcirkelens Centrum er det 
+samme som Cirkelens. 
+
+19. Retlinede Figurer ere saadanne, som 
+indesluttes af rette Linier : tresidede, som inde- 
+sluttes af tre, firsidede af fire, flersidede af flere 
+end fire rette Linier. 
+
+20. Af tresidede Figurer kaldes den, der 
+har alle tre Sider ligestore, en ligesidet, den 
+som kun har to Sider ligestore, en ligebenet, 
+og den, som har alle tre Sider uligestore, en 
+skæv Trekant. 
+
+21. Af tresidede Figurer kaldes endvidere 
+den, som har en ret Vinkel, en retvinklet, den, som 
+har en stump Vinkel, en stumpvinklet, den, som 
+har alle tre Vinkler spidse, en spidsvinklet Trekant. 
+
+22. Af firsidede Figurer kaldes den, som 
+baade er ligesidet og retvinklet, et Kvadrat, den 
+som er retvinklet, men ikke ligesidet, et Rekt- 
+angel, den som er ligesidet, men ikke retvinklet, 
+en Rhombe, den som har baade modstaaende 
+Sider og Vinkler ligestore, men hverken er lige- 
+sidet eller retvinklet, en Rhomboide; de øvrige 
+Firsider kunne kaldes Trapezer. 
+
+23. Parallele ere de rette Linier, som ligge 
+i samme Plan og, naar de forlænges ubegrænset 
+til begge Sider, ikke mødes til nogen af Siderne. 
+
+
+
+Forudsætninger, 
+
+Lad det være forudsat: 
+
+1. At man kan trække en ret Linie fra 
+et hvilketsomhelst Punkt til et hvilketsomhelst 
+Punkt. 
+
+2. At man kan forlænge en begrænset ret 
+Linie i ret Linie ud i eet. 
+
+3. At man kan tegne en Cirkel med et 
+hvilketsomhelst Centrum og en hvilkensomhelst 
+Radius. 
+
+4. At alle rette Vinkler ere ligestore. 
+
+5. At, naar en ret Liiiie skærer to rette 
+Linier, og de indvendige Vinkler paa samme 
+Side ere mindre end to rette, saa mødes de to 
+Linier, naar de forlænges ubegrænset, paa den 
+Side, hvor de to Vinkler ligge, der ere mindre 
+end to rette. 
+
+
+
+Almindelige Begreber, 
+
+1. Størrelser, som ere ligestore med den 
+samme, ere indbyrdes ligestore. 
+
+2. Naar ligestore Størrelser lægges til lige- 
+store Størrelser, ere Summerne ligestore. 
+
+
+
+s 
+
+3. Naar ligestore Størrelser trækkes fra 
+ligestore Størrelser, ere Resterne ligestore. 
+
+4. Størrelser, der kunne dække hverandre, 
+ere indbyrdes ligestore. 
+
+5. Det hele er større end en Del af det. 
+
+I. 
+
+At konstruere en ligesidet Trekant paa en 
+given begrænset ret Linie, 
+
+
+
+
+Lad AB være den givne begrænsede rette 
+Linie. Man skal da konstruere en ligesidet Tre- 
+kant paa den rette Linie AB. 
+
+Lad Cirkel BCD være tegnet med A som 
+Centrum og AB som Radius og tillige Cirkel 
+ACE med B som Centrum og BA som Radius, og 
+lad de rette Linier CA og CB være dragne fra 
+Cirklernes Skæringspunkt C til Punkterne A og B. 
+
+
+
+• 
+
+
+
+^ 
+
+
+
+Da nu Punkt A er Centrum i Cirkel CDB, 
+er AC = AB. Da endvidere Punkt B er Cen- 
+trum i Cirkel CAE, er BC = BA. Men det 
+blev ogsaa bevist, at CA er lig AB. Altsaa er 
+baade CA og CB lig AB. Men Størrelser, der 
+ere ligestore med den samme Størrelse, ere ind- 
+byrdes ligestore. Altsaa er CA = CB. Altsaa 
+ere de tre rette Linier CA, AB og BC indbyrdes 
+Mgestore. 
+
+Altsaa er l\ ABC ligesidet, ogdenerkon- 
+Irueret paa den givne begrænsede rette Linie 
+3; hvilket skulde gøres. 
+
+2. 
+
+TJd fra et givet Punkt at afsætte en ret 
+Linie lig en given ret Linie, 
+
+Lad A være det givne Punkt og BC den 
+givne rette Linie. Man skal da ud fra det givne 
+Punkt A afsætte en ret Linie lig den givne rette 
+Linie BC. 
+
+Lad nemlig en ret Linie AB være dragen 
+fra Punkt A til Punkt B, lad der paa den være 
+konstrueret en ligesidet Trekant DAB, lad de 
+rette Linier AE og BF være afsatte i Forlæn- 
+gelse af DA og DB, lad Cirkel CGH være tegnet 
+med B som Centrum og BC som Radius, og 
+
+
+
+lad Cirkel GIK være tegnet med D som Centrum 
+og DG som Radius. 
+
+Da nu Punkt B er Centrum i Cirkel CGH, 
+er BC = BG. Da endvidere Punkt D er Cen- 
+trum i Cirkel GIK, er 
+DK = DG; ogpaadem 
+ere Stykkerne DA og 
+DB ligestore; altsaaer 
+Resten AK lig Resten 
+BG. Men det blev 
+ogsaa bevist, at BC 
+er lig BG. Altsaa er 
+baade AK og BC lig 
+BG. Men Størrelser, 
+som ere ligestore med 
+
+den samme Størrelse, ere indbyrdes ligestore. 
+Altsaa er AK = BC. 
+
+Altsaa er der ud fra det givne Punkt A af- 
+sat en ret Linie AK lig den givne rette Linie 
+BC; h. s. g. 
+
+
+
+
+3. 
+
+Paa den største af to givne uligestore rette 
+Linier at afskære en ret Linie lig den mindste. 
+
+Lad AB og C være de to givne uligestore 
+rette Linier, og lad ^AB være den største af 
+
+
+
+8 
+
+dem. Man skal da paa den største AB afskære 
+
+en ret Linie lig den mindste C. 
+
+Lad AD være afsat ud fra Punkt A lig 
+
+den givne rette Linie C, og lad Cirkel DEF 
+
+være tegnet med 
+A som Centrum og 
+AD som Radius. 
+Da nu Punkt A 
+er Centrum i Cirkel 
+DEF,erAE = AD. 
+Men C er ogsaa 
+lig AD. Altsaaer 
+
+baade AE og Clig AD. Altsaa er AE = C. 
+Altsaa er der paa den største AB af to 
+
+givne uligestore rette Linier AB og C afskaaret 
+
+AE lig den mindste C; h. s. g. 
+
+
+
+
+4. 
+
+Naar to Trekanter have to Sider parvis 
+ligestore og de Vinkler, der indesluttes af de 
+ligestore rette Linier , ligestore, saa ville de ogsaa 
+have Grundlinierne ligestore, og Trekanterne 
+ville være ligestore^ og de øvrige Vinkler, over- 
+for hvilke de ligestore Sider ligge, ville være 
+parvis ligestore. 
+
+
+
+
+Lad ABC og DEF være to Trekanter, hvor 
+de to Sider AB og AC parvis ere lig de to 
+Sider DE og DF, nemlig AB = DE og AC = 
+DF, og hvor Z. BAC er lig Z. EDF. Jeg siger 
+da: at Grundlinie BC vil være lig Grundlinie 
+EF, at A ABC vil være Hg {\ DEF, og at de 
+øvrige Vinkler, overfor hvilke de ligestore Sider 
+ligge, ville være parvis 
+ligestore, ZL ABC = 
+ZL DEF og ZL ACB = 
+^ DFE. 
+
+Naar nemlig /\ ABC 
+lægges paa/\DEF, idet 
+Punkt A anbringes i 
+Punkt D og den rette 
+Linie AB paa den rette 
+Linie DE, saa vil Punkt 
+
+B træffe i E, fordi AB er lig DE. Men naar 
+AB dækker DE, saa vil den rette Linie AC 
+falde paa den rette Linie DF, fordi zl BAC er lig 
+^ EDF. Følgelig vil her Punkt C træffe i Punkt 
+F, fordi AC er lig DF. Men B traf jo i E ; følgelig 
+vil Grundlinie BC dække Grundlinie EF. Thi 
+hvis Grundlinie BC ikke dækker EF, naar B 
+træffer i E og C i F, saa ville to rette Linier 
+
+
+
+
+lO 
+
+indeslutte et Rum; og det er umuligt. Altsaa 
+vil Grundlinie BC dække EF og være lig med 
+den. Følgelig vil hele /\ABC dække hele 
+/\DEF og være lig med den; og de øvrige 
+Vinkler ville dække de øvrige Vinkler og være 
+lig med dem, ^ ABC = Z. DEF og Zl ACB 
+
+Altsaa: naar to Trekanter have to Sider 
+parvis ligestore og de Vinkler, der indesluttes 
+af de ligestore rette Linier, ligestore, saa ville 
+de ogsaa have Grundlinierne ligestore, og Tre- 
+kanterne ville være ligestore, og de øvrige 
+Vinkler, overfor hvilke de ligestore Sider ligge, 
+ville være parvis ligestore ; hvilket skulde bevises. 
+
+S- 
+
+/ en ligebenet Trekant ere Vinklerne ved 
+Grundlinien ligestore; og^ naar de ligestore rette 
+Linier ere forlængede, ville Vinklerne under 
+Grundlinien være ligestore. 
+
+Lad ABC være en ligebenet Trekant, hvor 
+Side AB er lig Side AC, og lad de rette Linier 
+BD og CE være afsatte i Forlængelse af AB 
+og AC. Jeg siger da: Z^ABC = zlACB, og 
+^CBD = zlBCE. 
+
+
+
+II 
+
+
+
+Lad der nemlig paa BD være taget et vilkaar- 
+ligt Punkt F, lad der paa den største AE, være 
+afskaaret AG = AF, og lad de rette Linier FC 
+og GB være dragne. 
+
+Da nu AF er lig AG og AB er lig AC, 
+saa ere de to Sider FA og AC parvis lig de 
+to Sider GA og AB; 
+og de indeslutte den 
+fælles Vinkel FAG; 
+altsaa vil Grundlinie 
+FC være lig Grundlinie 
+GB; AAFC vil være 
+lig/\AGB; og de øv- 
+rige Vinkler, overfor 
+hvilke de ligestore Si- 
+der ligge, ville være 
+parvis ligestore, nem- 
+Ug^ACF = ^ABG 
+og^AFC = z:AGB. 
+
+Og da hele AF er lig hele AG og paa dem 
+igen AB er lig AC, saa er Resten BF lig Resten 
+CG. Men det blev ogsaa bevist, at FC er lig 
+GB. Altsaa ere de to Sider BF og FC parvis 
+lig de to Sider CG og GB ; desuden er zl BFC 
+lig zlCGB; og deres Grundlinie BC er fælles; 
+altsaa vil /\ BFC være lig /\ CGB, og de øvrige 
+
+
+
+
+12 
+
+Vinkler, overfor hvilke de ligestore Sider ligge, 
+ville være parvis ligestore. Altsaa er ^FBC 
+= Z. GCB, og Z. BCF = Z CBG. Da det nu 
+blev bevist, at hele Z. ABG er lig hele Z ACF, 
+og af dem igen Z CBG er lig -^BCF, saa er 
+Resten Z ABC lig Resten Z ACB. Og de 
+ligge ved ^ABC's Grundlinie. Men det blev 
+tillige bevist, at Z FBC er lig Z GCB. Og de 
+ligge under Grundlinien. 
+
+Altsaa: i en ligebenet Trekant ere Vink- 
+lerne ved Grundlinien ligestore ; og naar de lige- 
+store rette Linier ere forlængede, ville Vinklerne 
+under Grundlinien være ligestore; h. s. b. 
+
+
+
+6. 
+
+Naar to Vinkler i en Trekant ere ligestore, 
+ville ogsaa de Sider^ der ligge overfor de lige- 
+store Vinkler^ være ligestore. 
+
+Lad ABC være en Trekant, hvor Z ABC 
+er lig Z ACB. Jeg siger da, at Side AB er lig 
+Side AC. 
+
+Thi hvis AB og AC ere uligestore, er en 
+af dem størst. Lad AB være størst, lad der 
+paa den største AB være afskaaret Stykket DB 
+lig den mindste AC, og lad DC være dragen. 
+
+
+
+
+13 
+
+Da nu DB er lig AC, ogBC er fælles, saa 
+ere de to Sider DB og BC parvis lig de to 
+Sider AC og CB; desuden er 
+^DBC = ZlACB; altsaa er 
+Grundlinie DC lig Grundlinie 
+AB, og ^DBC vil være lig 
+/\ ACB, en mindre lig en 
+større; hvilket er umuligt. Alt- 
+saa er AB og AC ikke ulige- 
+store. Altsaa er AB = AC. 
+
+Altsaa: naar to Vinkler i 
+en Trekant ere ligestore, ville ogsaa de Sider, 
+der ligge overfor de ligestore Vinkler, være lige- 
+store; h. s. b. 
+
+7. 
+
+Naar der fra en ret Linies Endepunkter 
+er konstrueret to rette Linier til eet Punkt ^ kan 
+man ikke fra de samme Endepunkter konstruere 
+to andre rette Linier^ parvis lig de første, til 
+et andet Punkt paa samme Side af Linien. 
+
+Thi hvis det er muligt, saa lad der fra den 
+rette Linie AB's Endepunkter være konstrueret 
+to rette Linier AC og CB til eet Punkt C og 
+desuden fra de samme Endepunkter to andre 
+rette Linier AD og DB parvis lig de første 
+
+
+
+til et andet Punkt D paa samme Side, nemlig 
+DA = CA fra samme Endepunkt A, og DB 
+= CB fra samme Endepunkt B, og lad CD 
+være dragen. 
+
+Da nu AC er lig AD, er Z. ACD lig 
+z: ADC. Altsaa er Z. ADC større end Z DCB. 
+Altsaa er Z CDB meget større end Z DCB. 
+
+Paa den anden Side: da 
+CB er lig DB, er ^ CDB 
+= Z DCB. Men det 
+blev ogsaa bevist, at den 
+er meget større; og det 
+er umuligt. 
+
+Altsaa: naar der fra 
+en ret Linies Endepunk- 
+ter er konstrueret to rette 
+Linier til eet Punkt, kan man ikke fra de samme 
+Endepunkter konstruere to andre rette Linier, 
+parvis lig de første, til et andet Punkt paa samme 
+Side af Linien ; h. s. b. 
+
+8. 
+
+Naar to Trekanter have to Sider parvis 
+ligestore og tillige Grundlinierne ligestore^ saa 
+ville de ogsaa have de Vinkler ligestore^ som 
+indesluttes af de ligestore rette Linier. 
+
+
+
+
+15 
+
+Lad ABC og DEF være to Trekanter, hvor 
+de to Sider AB og AC parvis ere lig de to 
+Sider DE og DF, nemlig AB = DE og AC 
+= DF, og lad dem tillige have Grundlinie BC 
+lig Grundlinie EF. Jeg siger da: ^BAC = 
+^EDF. 
+
+Thi naar /\ ABC lægges paa ^ DEF, idet 
+Punkt B anbringes i Punkt E, og den rette 
+
+
+
+
+
+Linie BC lægges paa den rette Linie EF, saa 
+vil Punkt C træffe i F, fordi BC er lig EF. 
+Og naar nu BC dækker EF, saa ville BA og 
+CA ogsaa dække ED og DF. Thi hvis Grund- 
+linie BC dækker Grundlinie EF, mens Siderne 
+BA og AC ikke dække ED og DF, men falde 
+udenfor, f. Ex. i EG og GF, saa vil der fra en 
+ret Linies Endepunkter være konstrueret to rette 
+
+
+
+i6 
+
+Linier til eet Punkt, og fra de samme Ende- 
+punkter to andre rette Linier, parvis lig de 
+første, til et andet Punkt paa samme Side af 
+Linien. Men det kan man ikke. Altsaa, naar 
+Grundlinie BC dækker Grundlinie EF, kunne 
+Siderne BA og AC ikke lade være at dække 
+ED og DF. Altsaa ville de dække dem. Følge- 
+lig vil ogsaa ^ BAC dække Z^ EDF og være 
+lig med den. 
+
+Altsaa: naar to Trekanter have to Sider 
+parvis ligestore og tillige Grundlinierne ligestore, 
+saa ville de ogsaa have de Vinkler ligestore, som 
+indesluttes af de ligestore rette Linier; h. s. b. 
+
+
+
+9. 
+
+At halvere en given retlinet Vinkel. 
+
+Lad BAC være den 
+givne retlinede Vinkel. Man 
+skal da halvere den. 
+
+Lad der paa AB være 
+taget et vilkaarligt Punkt 
+D, og lad der paa AC være 
+afskaaret AE = AD, lad 
+DE være dragen, lad der 
+paa DE være konstrueret 
+'c en ligesidet Trekant DEF, 
+
+
+
+
+17 
+
+
+
+og lad AF være dragen. Jeg siger da, at 
+^ BAC er halveret af den rette Linie AF. 
+
+Thi da AD er lig AE, og AF er fælles, 
+saa ere de to Sider DA og AF parvis lig de 
+to Sider EA og AF; og Grundlinie DF er lig 
+Grundlinie EF; altsaa er ^DAF = ^EAF. 
+
+Altsaa er den givne retlinede Vinkel BAC 
+halveret af den rette Linie AF; h. s. g. 
+
+
+
+10. 
+
+At halvere en given begrænset ret Linie, 
+
+Lad AB være den givne begrænsede rette 
+Linie. Man skal da halvere den begrænsede 
+rette Linie AB. 
+
+Lad der paa den være konstrueret en lige- 
+sidet Trekant ABC, og lad Z- ACB være hal- 
+veret af den rette Linie CD. Jeg siger da, at den 
+rette Linie AB er halveret i Punkt D. 
+
+Thi da AC er lig CB, 
+og CD er fælles, saa ere de 
+to Sider AC og CD parvis 
+lig de to Sider BC og CD ; 
+og Z^ ACD er lig Z. BCD ; 
+altsaa er Grundlinie AD lig 
+Grundlinie BD. 
+
+
+
+
+I 
+
+
+
+i8 
+
+Altsaa er den givne begrænsede rette Linie 
+AB halveret i D; h. s. g. 
+
+
+
+II. 
+
+Fra et givet Punkt paa en given ret Linie 
+
+at oprejse en ret Linie vinkelret paa den givne. 
+
+Lad AB være den givne rette Linie og C 
+
+det givne Punkt paa den. Man skal da fra 
+
+Punkt C oprejse en ret Linie vinkelret paa AB, 
+
+Lad der være 
+taget et vilkaarligt 
+Punkt D paa AB, 
+lad CE være afsat 
+lig CD, lad der paa 
+DE være konstru- 
+eret en ligesidet 
+Trekant FDE, og 
+lad FC være dragen. Jeg siger da, at fra det 
+givne Punkt C paa den givne rette Linie AB er 
+den rette Linie FC oprejst vinkelret paa AB. 
+
+Thi da DC er ligCE, og CF er fælles, saa 
+ere de to Sider DC og CF parvis lig de to 
+Sider EC og CF; og Grundlinie DF er lig 
+Grundlinie FE ; altsaa er Zl DCF = Z- ECF. 
+Og de ligge ved Siden af hinanden. Men naar 
+en ret Linie er oprejst paa en anden, saa at de 
+
+
+
+
+19 
+
+ved Siden af hinanden liggende Vinkler blive 
+ligestore, er enhver af de ligestore Vinkler ret. 
+Altsaa ere begge Vinklerne DCF og FCE rette. 
+Altsaa er der fra det givne Punkt C paa 
+den givne rette Linie AB oprejst den rette Linie 
+CF vinkelret paa AB; h. s. g. 
+
+
+
+12. 
+
+Fra et Punkt udenfor en given ubegrænset 
+ret Linie at nedfælde en ret Linie lodret paa 
+den givne. 
+
+Lad AB være den givne ubegrænsede rette 
+Linie og C det givne Punkt udenfor den. Man 
+skal da fra det givne Punkt C udenfor den givne 
+ubegrænsede rette Linie AB nedfælde en ret 
+Linie lodret paa AB. 
+
+Lad der nemlig paa den anden Side af den 
+rette Linie AB være taget et vilkaarligt Punkt 
+D, lad Cirkel EFG 
+være tegnet med C 
+som Centrum og 
+CD som Radius, 
+lad den rette Linie [ c 
+
+EG være halveret 
+i H, og lad de rette ^. 
+Linier CG, CH og 
+
+
+
+
+20 
+
+CE være dragne. Jeg siger da, at der fra det 
+givne Punkt C udenfor den givne ubegrænsede 
+rette Linie AB er nedfældet den rette Linie CH 
+lodret paa AB. 
+
+Thi da GH er lig HE, og HC er fælles, 
+saa ere de to Sider GH og HC parvis lig de to 
+Sider EH og HC ; og Grundlinie CG er lig Grund- 
+linie CE; altsaa er Z, CHG = /L EHC. Og 
+de ligge ved Siden af hinanden. Men naar en 
+ret Linie er oprejst paa en anden, saa at de 
+ved Siden af hinanden liggende Vinkler blive 
+ligestore, er enhver af de ligestore Vinkler ret ; 
+og den Linie, der er oprejst paa den anden, 
+kaldes lodret paa den anden. 
+
+Altsaa er der fra det givne Punkt C uden- 
+for den givne ubegrænsede rette Linie AB ned- 
+fældet den rette Linie CH lodret paa AB ; h. s. g. 
+
+13- 
+
+Naar en ret Linie er oprejst paa en anden 
+ret Linie, saa at der dannes Vinkler^ ville de 
+enten være to rette Vinkler eller tilsammen lig 
+to rette. 
+
+Lad nemlig en vilkaarlig ret Linie AB være 
+oprejst paa den rette Linie CD og danne Vink- 
+lerne CBA og ABD. Jeg siger da, at Vink- 
+
+
+
+21 
+
+
+
+lerne CBA og ABD enten ere to rette Vinkler 
+eller tilsammen lig to rette. 
+
+Hvis z: CBA er lig ^ ABD, ere de to rette 
+Vinkler. Men, hvis ikke, saa lad der fra Punkt B 
+være oprejst BE vinkelret paa CD. 
+
+Da ere Vinklerne CBE og EBD to rette 
+Vinkler. Nu er ^CBE = ^CBA + ^ ABE ; lad 
+j^ EBD være lagt til dem begge, saa er ^ CBE + 
+
+^ EBD = 
+
+^ CBA + BA 
+
+^ ABE + 
+^EBD. Endvi- 
+dereer^DBA 
+= ^DBE + 
+^ EBA; lad 
+
+^ ABC være ^ ^ 
+
+lagt til dem 
+
+begge, saa er Z. DBA + Z. ABC = Z DBE 
++ ^EBA + ZlABC Men det blev ogsaa 
+bevist, at ^CBE + ^EBD er lig de samme 
+tre Vinkler. Men Størrelser, som ere ligestore 
+med den samme Størrelse, ere indbyrdes lige- 
+store. Altsaa er Z. CBE + Z EBD = Z DBA 
+-t- Z ABC. Men Vinklerne CBE og EBD ere 
+to rette. Vinkler. Altsaa er ^DBA + ZABC 
+lig to rette. 
+
+
+
+22 
+
+
+
+Altsaa: naar en ret Linie er oprejst paa en 
+anden ret Linie, saa at der dannes Vinkler, ville 
+de enten være to rette Vinkler eller tilsammen 
+lig to rette; h. s. b. 
+
+
+
+14. 
+
+Naar to rette Linier ere tegnede ud fra et 
+Punkt paa en ret Linie til hver sin Side^ saa at 
+Vinklerne ved Siden af hinanden tilsammen 
+ere lig to rette, ville de rette Linier ligge i For- 
+længelse af hinanden. 
+
+Lad nemlig de to rette Linier BC og BD 
+være tegnede ud fra et Punkt B paa en ret 
+Linie AB til hver sin Side, saa at Vinklerne 
+ved Siden af hinanden tilsammen ere lig to rette. 
+Jeg siger da, atBD ligger i Forlængelse afCB. 
+Thi hvis BD ikke ligger i Forlængelse af 
+CB, saa lad BE ligge i Forlængelse af CB. 
+
+Da nu den rette Linie AB er oprejst paa den 
+*^. rette Linie CBE, 
+
+saa er ^ ABC -j- 
+z: ABE lig to 
+rette. MenZLABC 
++ Z. ABD er og- 
+saa lig to rette. 
+Altsaa er Z^ CB A 
+
+
+
+
+23 
+
++ Z. ABE = ^ CBA + ^ ABD. Lad den 
+fælles Vinkel CBA være trukken fra, saa er 
+Resten Zl ABE lig Resten zl ABD, en mindre 
+lig en større; hvilket er umuligt. Altsaa 
+ligger BE ikke i Forlængelse af CB. Paa samme 
+Maade ville vi ogsaa kunne bevise, at heller 
+ikke nogen anden gør det, undtagen BD. Altsaa 
+ligger BD i Forlængelse af CB. 
+
+Altsaa: naar to rette Linier ere tegnede ud 
+fra et Punkt paa en ret Linie til hver sin Side, 
+saa at Vinklerne ved Siden af hinanden til- 
+sammen ere lig to rette, ville de rette Linier 
+ligge i Forlængelse af hinanden; h. s. b. 
+
+
+
+15- 
+
+Naar to rette Linier skære hinanden^ ere 
+Topvinklerne ligestore. 
+
+Lad nemlig de rette Linier AB og CD 
+skære hinanden i Punkt E. Jeg siger da: ^AEG 
+= z: DEB, og A, CEB = Z. AED. 
+
+Thi da den rette Linie AE er oprejst paa 
+den rette Linie CD og danner Vinklerne CEA 
+og AED, saa er Z CEA + Z. AED lig to 
+rette. Da endvidere den rette Linie DE er op- 
+
+
+
+24 
+
+rejst paa den rette Linie AB og danner 
+Vinklerne AED og DEB, saa er Z. AED + 
+^ DEB lig to rette. Men det blev ogsaa 
+bevist, at Z CEA + ^ AED er lig to rette. 
+Altsaa er Z. CEA + Z. AED = Z. AEI> 
++ Z DEB. Lad den fælles Vinkel AED 
+være trukken fra, saa er Resten Z CEA lig 
+Resten ^BED. Paa samme Maade ville vi 
+
+
+
+
+ogsaa kunne bevise, at Vinklerne CEB og DEA 
+ere ligestore. 
+
+Altsaa: naar to rette Linier skære hinanden, 
+ere Topvinklerne ligestore; h. s. b. 
+
+1 6. 
+
+/ enhver Trekant er, naar en af Siderne 
+er forlænget, den udvendige Vinkel større, end 
+enhver af de indvendige og modstaaende Vinkler, 
+
+
+
+25 
+
+
+
+Lad ABC være en Trekant, og lad en at 
+dens Sider BC være forlænget tilD. Jeg siger 
+da, at den udvendige Vinkel ACD er større end 
+enhver af de indvendige og modstaaende Vinkler 
+CBA og BAC. 
+
+Lad AC være halveret i E, lad den rette 
+Linie BE være dragen og forlænget til F, lad 
+EF være afsat ligBE, 
+lad FC va^e dragen, 
+og lad AC være fort- 
+sat til G. 
+
+Da nu AE er lig 
+EC, og BE er lig EF, 
+saa ere de to Sider AE 
+og EB parvis lig de to 
+Sider CE og EF; og 
+^ AEB er lig Zl FEC, 
+thi de ere Topvinkler ; 
+
+altsaa er Grundlinie AB lig Grundlinie FC; 
+A ABE er lig /\ FCE ; og de øvrige Vinkler, 
+overfor hvilke de ligestore Sider ligge, ere parvis 
+lig de øvrige Vinkler. Altsaa er -^BAE = 
+^ ECF. Men Zl ECD er større end ^ ECF. 
+Altsaa er Zl ACD større end Z. BAE. Paa 
+samme Maade vil man ved at halvere BC 
+
+
+
+
+26 
+
+kunne bevise, at ^BCG, det vil sige^ACD, 
+er større end Zl ABC. 
+
+Altsaa: i enhver Trekant er, naar en af 
+Siderne er forlænget, den udvendige Vinkel større 
+end enhver af de indvendige og modstaaende 
+Vinkler; h. s. b. 
+
+
+
+17. 
+
+/ enhver Trekant ere to hvilkesomhelst 
+Vinkler tilsammen mindre end to rette. 
+
+Lad ABC være en Trekant. Jeg siger da, 
+at i /\ ABC ere to hvilkesomhelst Vinkler- til- 
+sammen mindre end to rette. 
+
+Lad nemlig BC 
+være forlænget til D. 
+Da nu ^ACD 
+er en udvendig Vinkel 
+til A ABC, er den 
+større end den indven- 
+dige og modstaaende 
+Vinkel ABC. Lad 
+^ACB være lagt til 
+dem begge, saa er Z. ACD + ^ ACB større 
+end Zl ABC + Z, BCA. Men Zl ACD + 
+z: ACB er lig to rette. Altsaa er zlABC + 
+Zl BCA mindre end to rette. Paa samme Maade 
+
+
+
+
+2^ 
+
+ville vi ogsaa kunne bevise, at Z^ BAC + 
+Z. ACB er mindre end to rette, og ligesaa ^ CAB 
++ ^ABC. 
+
+Altsaa: i enhver Trekant ere to hvilkesom- 
+helst Vinkler tilsammen mindre end to rette; 
+h. s. b. 
+
+
+
+i8. 
+
+/ enhver Trekant ligger der overfor en 
+større Side en større Vinkel, 
+
+Lad nemlig ABC være en Trekant, hvor 
+Side AC er større 
+end Side AB. Jeg 
+siger da, at Z^ ABC 
+er større end A. BCA. 
+
+Thi da AC er 
+større end AB, saa 
+lad AD være afsat 
+lig AB, og lad BD 
+være dragen. 
+
+Da nu zlADB er en udvendig Vinkel til 
+/\BCD, er den større end den indvendige og 
+modstaaende Vinkel DCB. Men Z^ ADB er lig 
+ZIABD, da Side AB er lig Side AD. Altsaa 
+er Z ABD større end Z ACB. Altsaa er 
+ZlABC meget større end ^ACB. 
+
+
+
+
+28 
+
+Altsaa: i enhver Trekant ligger der overfor 
+en større Side en større Vinkel; h. s. b. 
+
+
+
+' 
+
+
+
+19. 
+
+/ enhver Trekant ligger der overfor en 
+
+større Vinkel en større Side. 
+
+Lad ABC være en Trekant, hvor Z. ABC 
+
+er større end ^BCA. Jeg siger da, at Side 
+
+AC er større end Side AB. 
+
+Thi, hvis ikke, er AC enten lig med eller 
+
+mindre end AB. AC er nu 
+ikke lig AB; thi i saa Fald 
+vilde ^ABC værelig^ ACB, 
+men det er den ikke. Altsaa 
+er AC ikke lig AB. Men 
+AC er heller ikke mindre 
+end AB ; thi i saa Fald vilde 
+Z. ABC være mindre end 
+-^ACB, men det er den ikke. 
+
+Altsaa er AC ikke mindre end AB. Og det 
+
+blev bevist, at den heller ikke er lig AB. Altsaa 
+
+er AC større end AB. 
+
+Altsaa: i enhver Trekant ligger der overfor 
+
+en større Vinkel en større Side; h. s. b. 
+
+
+
+
+29 
+
+
+
+20. 
+
+/ enhver Trekant ere to hvilkesomhelst Sider 
+tilsammen større end den tredje. 
+
+Lad nemlig ABC være en Trekant. Jeg 
+siger da, at i £\ ABC ere to hvilkesomhelst 
+Sider tilsammen større end den tredje, BA + 
+AC større end BC, AB + BC større end AC, 
+BC + CA større end AB. 
+
+Lad rømlig BA være fortsat til Punkt D, 
+lad AD være afsat lig CA, 
+og lad DC være dragen. 
+
+Da nu DA er lig AC, er 
+Z^ ADC = Z. ACD. Altsaa 
+er ^BCD større end zl ADC. 
+Og da DCB er en Trekant, 
+hvor Z. BCD er større end 
+^BDC, og der overfor en 
+større Vinkel ligger en større 
+Side, saa er DB større end BC. Men DA er 
+lig AC. Altsaa er BA + AC større end BC. 
+Paa samme Maade ville vi ogsaa kunne bevise, 
+at AB + BC er større end AC, og at BC + 
+CA er større end AB. 
+
+Altsaa: i enhver Trekant ere tohvilkesom- 
+
+
+
+
+30 
+
+helst Sider tilsammen større end den tredje; 
+h. s. b. 
+
+21. 
+
+Naar der i en Trekant fra Endepunkterne 
+af en af Siderne er konstrueret to rette Linier 
+indenfor Trekanten, saa ville de to rette 
+Linier tilsammen være mindre end Trekantens to 
+atidre Sider tilsammen^ men indeslutte en større 
+Vinkel, 
+
+Lad der nemlig i ^ ABC fra Endepunk- 
+terne B og C af en af Siderne BC være konstrueret 
+to rette Linier BD og DC indenfor Trekanten. 
+Jeg siger da, at BD og DC tilsammen ere mindre 
+end Trekantens to andre Sider BA og AC til- 
+sammen, men at den Vinkel, de indeslutte, 
+Z. BDC er større end Z BAC. 
+
+Lad nemlig BD være fortsat til E. 
+
+Da nu i enhver Trekant de to Sider til- 
+sammen ere større end den tredje, saa er i 
+l\ ABE AB -j- AE større end BE. Lad EC være 
+lagt til dem begge, saa er BA -f AC større 
+end BE -j- EC. Endvidere er i /\ CED CE 
++ ED større end CD. Lad DB være lagt til 
+dem begge, saa er CE -f EB større end CD 
++ DB. Men det blev bevist, at BA + AC 
+
+
+
+31 
+
+er større end BE + EC. Altsaa er BA + AC 
+meget større end BD + DC. 
+
+Da endvidere i enhver Trekant en udvendig 
+Vinkel er større end enhver af de indvendige 
+og modstaaende, saa er /\ CDE's udvendige 
+Vinkel BDC større end ^ CED. Af samme 
+Grund er altsaa ogsaa ^ ABE's udvendige 
+Vinkel CEB større end 
+^ BAC. Men det 
+blev bevist, at ^ BDC 
+er større end Z. CEB. 
+Altsaa er Zl BDC 
+
+meget større end 
+^BAC. 
+
+Altsaa : naar der 
+i en Trekant fra Ende- 
+punkterne af en af Siderne er konstrueret to rette 
+Linier indenfor Trekanten, saa ville de to rette 
+Linier tilsammen være mindre end Trekantens 
+to andre Sider tilsammen, men indeslutte en 
+større Vinkel; h. s. b. 
+
+
+
+
+22. 
+
+
+
+Ai konstruere en Trekant af tre rette Linier, 
+lig tre givne rette Linier; dog maa to hvilkesom- 
+helst tilsammen være større end den tredje. 
+
+
+
+32 
+
+Lad A, B og C være de tre givne rette Linier, 
+og lad to hvilkesomhelst af dem tilsammen være 
+større end den tredje, A + B større end C, 
+A + C større end B og B + C større end A. 
+Man skal da konstruere en Trekant af rette 
+Linier lig A, B og C. 
+
+
+
+
+Lad en ret Linie DE være afsat begrænset 
+i D, men ubegrænset henimod E, lad der være 
+afsat DF = A, FG = B, GH = C, lad Cirkel 
+DIK være tegnet med F som Centrum og FD 
+som Radius, lad endvidere Cirkel KIH være 
+tegnet med G som Centrum og GH som Radius, 
+og lad IF og IG være dragne. Jeg siger da, at 
+
+
+
+33 
+
+/\ IFG er konstrueret af tre rette Linier lig 
+A, B og C. 
+
+Thi da Punkt F er Centrum i Cirkel DIK, 
+er FD = FL Men FD er lig A. Altsaa er 
+FI ogsaa lig A. Da endvidere Punkt G er 
+Centrum i Cirkel KIH, er GH = GI. Men GH 
+er lig C. Altsaa er IG ogsaa lig C. Og FG 
+er lig B. Altsaa ere de tre rette Linier IF, 
+FG og GI lig de tre rette Linier A, B og C. 
+
+Altsaa er /\ IFG tegnet af tre rette Linier 
+IF, FG og GI lig de tre givne rette Linier A, 
+B og C; h. s. g. 
+
+23. 
+
+Ved en given ret Linie og et givet Punkt 
+paa den at konstruere en retlinet Vinkel lig 
+en given retlinet VinkeL 
+
+Lad AB være den givne rette Linie, A det 
+givne Punkt paa den og ^ DCE den givne 
+retlinede Vinkel. Man skal da ved den givne 
+rette Linie AB og det givne Punkt A paa den 
+konstruere en retlinet Vinkel lig den givne ret- 
+linede Vinkel DCE. 
+
+Lad der være taget vilkaarlige Punkter D 
+og E, henholdsvis paa CD og CE, lad DE 
+
+
+
+
+34 
+
+være dragen, og lad ^AFG være konstrueret 
+af tre rette Linier, som ere lig de tre rette 
+
+Linier CD, DE og CE^ 
+saa at CD = AF, CE 
+= AG og DE = FG. 
+
+Da nu de to Sider 
+DC og CE ere parvis lig 
+de to Sider FA og AG^ 
+og Grundlinie DE er lig 
+Grundlinie FG, saa er 
+-^DCE = ^FAG. 
+
+Altsaa er der ved 
+
+den givne rette Linie AB 
+
+og det givne Punkt A paa den konstrueret den 
+
+retlinede Vinkel FAG lig den givne retlinede 
+
+Vinkel DCE; h. s. g. 
+
+
+
+
+24. 
+
+Naar to Trekanter have to Sider parvis 
+ligestore^ men den ene har en større Vinkel 
+mellem Siderne end den anden^ saa vilden ogsaa 
+have en større Grundlinie end den anden. 
+
+Lad ABC og DEF være to Trekanter, hvor 
+de to Sider AB og AC parvis ere lig de to 
+Sider DE og DF, nemlig AB = DE og AC 
+= DF, men lad Vinkelen ved A være større 
+
+
+
+35 
+
+
+
+end Vinkelen ved D. Jeg siger da, at Grund- 
+linie BC er større end Grundlinie EF. 
+
+Thi da ^BAC er større end^EDF, saa 
+lad der ved den rette Linie DE og Punkt D 
+paa den være konstrueret Z. EDG = Z- BAC, 
+lad DG være afsat lig AC eller DF, og 
+lad EG og FG være 
+dragne. 
+
+Da nu AB er lig DE, 
+og AC er lig DG, saaere 
+de to Sider BA og AC 
+parvis lig de to Sider 
+ED og DG ; og ^ BAC 
+er lig A. EDG ; altsaa er 
+Grundlinie BC lig Grund- 
+linie EG. Da endvidere 
+DF er lig DG, er ^ DGF 
+= Z. DFG. Altsaa er 
+
+ZlDFG større end 
+Zl EGF. Altsaa er Z EFG meget større end 
+Z. EGF. Da nu EFG er en Trekant, hvor Z EFG 
+er større end Z EGF, og der overfor en større 
+Vinkel ligger en større Side, saa er Side EG 
+større end Side EF. Men EG er lig BC. Altsaa 
+er ogsaa BC større end EF. 
+
+
+
+
+3* 
+
+
+
+36 
+
+Altsaa: naar to Trekanter have to Sider 
+parvis ligestore, men den ene har en større 
+Vinkel mellem Siderne end den anden, saa vil 
+den ogsaa have en større Grundlinie end den 
+anden; h. s. b. 
+
+
+
+25. 
+
+Naar to Trekanter have to Sider parvis 
+ligestore ^ men den ene har en større Grundlinie 
+end den anden^ saa vil den ogsaa have en større 
+Vinkel mellem Siderne end den anden. 
+
+Lad ABC og DEF være to Trekanter, 
+hvor de to Sider AB og AC parvis ere lig de 
+to Sider DE og DF, nemlig AB = DE og 
+
+AC = DF, men lad 
+A Grundlinie BC være 
+
+større end Grundlinie 
+EF. Jeg siger da, 
+at zlBAC er større 
+end ^EDF. 
+
+Thi, hvis ikke, 
+saa er A. BAC enten 
+lig med eller mindre 
+end^EDF. ZIBAC 
+er nu ikke lig A. EDF ; 
+thi i saa Fald vilde 
+
+
+
+
+
+37 
+
+Grundlinie BC være lig Grundlinie EF, men det 
+er den ikke. Altsaa er ^ BAG ikke lig Z- EDF. 
+Men ^BAG er heller ikke mindre end Zl EDF; 
+thi i saa Fald vilde Grundlinie BG være mindre 
+end Grundlinie EF, men det er den ikke. Altsaa 
+er ^ BAG ikke mindre end A. EDF. Og det 
+blev bevist, at den heller ikke er lig ^ EDF. 
+Altsaa er /L^PSL større end ^EDF. 
+
+Altsaa: naar to Trekanter have to Sider 
+parvis ligestore, men den ene har en større 
+Grundlinie end den anden, saa vil den ogsaa 
+have en større Vinkel mellem Siderne end den 
+anden; h. s. b. 
+
+26. 
+
+Naar to Trekanter have to Vinkler parvis 
+ligestore og et Par Sider ligestore, enten dent^ 
+der ligge mellem de parvis ligestore Vinkler^ 
+eller dem, der ligge overfor et Par ligestore 
+Vinkler, saa ville de ogsaa have de andre Sider 
+parvis ligestore og det tredje Par Vinkler lige- 
+store. 
+
+Lad ABG og DEF være to Trekanter, hvor 
+Vinklerne ABG ogBGA parvis ere lig Vinklerne 
+DEF og EFD, nemlig Z. ABG = Z. DEF og 
+^BGA = ^EFD, og lad dem desuden have 
+
+
+
+38 
+
+
+
+
+et Par Sider ligestore, først dem, der ligge 
+mellem de ligestore Vinkler, nemlig BC = EF. 
+Jeg siger da, at de ogsaa ville have de øvrige 
+Sider parvis ligestore, nemlig AB = DE og 
+AC = DF, og det tredje Par Vinkler ligestore, 
+nemlig Z^ B AC = ^ EDF. 
+
+Thi hvis AB og DE ere uligestore, er en 
+
+af dem størst. Lad AB være 
+størst, lad BG være afsat lig 
+DE og lad GC være dragen. 
+Da nu BG er lig DE, og 
+BC er lig EF, saa ere de to 
+Sider BG og BC parvis lig de 
+to Sider ED og EF ; og zl GBC 
+er lig ^ DEF; altsaa er 
+Grundlinie GC lig Grundlinie 
+DF; A GBC er lig A DEF; 
+og de øvrige Vinkler, overfor 
+hvilke de ligestore Sider ligge, ville være lige- 
+store. Altsaa er Z. GCB = Z. DFE. Men det 
+er givet, at ZlDFE er lig zlBCA. Altsaa er 
+ZL BCG = Z BCA, en mindre lig en større; 
+hvilket er umuligt. Altsaa ere AB og DE ikke 
+uligestore. Altsaa er AB = DE. Desuden er 
+BC = EF. Altsaa ere de to Sider AB ogBC 
+parvis lig de to Sider DE og EF; og Z ABC 
+
+
+
+
+39 
+
+€r lig zlDEF; altsaa er Grundlinie AC lig 
+Grundlinie DF, og den tredje Vinkel BAC er 
+lig den tredje Vinkel EDF. 
+
+Men lad nu de Sider, der ligge overfor et 
+Par ligestore Vinkler, være ligestore, f. Ex. AB 
+= DE; saa siger jeg atter, at de øvrige Sider 
+ogsaa ville være ligestore, AC = DF og BC 
+= EF, og tillige, at den tredje Vinkel BAC er 
+lig den tredje Vinkel EDF. 
+
+Thi hvis BC og EF ere uligestore, er en 
+af dem størst. Lad om muligt BC være størst, 
+lad BH være afsat lig EF, og lad AH være dragen. 
+
+Da nu BH er lig EF, og AB er lig 
+DE, saa ere de to Sider AB og BH parvis lig 
+de to Sider DE og EF; og de indeslutte lige- 
+store Vinkler; altsaa er Grundlinie AH lig Grund- 
+linie DF; /\ABH er lig /\DEF; og de øvrige 
+Vinkler, overfor hvilke de ligestore Sider ligge, 
+ville være ligestore. Altsaa er Z- BHA = 
+Z. EFD. Men ZL EFD er lig Z BCA. Altsaa er 
+AAHC's udvendige Vinkel BHA lig den ind- 
+vendige og modstaacnde Vinkel BCA ; hvilket er 
+umuligt. Altsaa ere BC og EF ikke uligestore. 
+Altsaa er BC = EF. Desuden er AB = DE. Alt- 
+saa ere de to Sider AB og BC parvis lig de to 
+Sider DE og EF ; og de indeslutte ligestore 
+
+
+
+40 
+
+Vinkler; altsaa er Grundlinie AC lig Grundlinie 
+DF; ^ ABC er lig /\ DEF; og den tredje 
+Vinkel BAC er lig den tredje Vinkel EDF. 
+
+Altsaa: naar to Trekanter have to Vinkler 
+parvis ligestore og et Par Sider ligestore, enten 
+dem, der ligge mellem de parvis ligestore Vinkler, 
+eller dem, der ligge overfor et Par ligestore 
+Vinkler, saa ville de ogsaa have de andre Sider 
+parvis ligestore, og det tredje Par Vinkler lige- 
+store; h. s. b. 
+
+27. 
+
+Naar en ret Linie skærer to rette Linier, 
+og Vekselvinklerne ere ligestore, ville de rette 
+Linier være parallele. 
+
+Lad nemlig den rette Linie EF skære de 
+to rette Linier AB og CD, og lad Veksel vink- 
+lerne AEF og EFD være ligestore. Jeg siger 
+da, at AB er parallel med CD. 
+
+Thi, hvis ikke, saa ville AB og CD, naar 
+de forlænges, mødes enten paa den Side, hvor 
+B og D ligge, eller paa den Side, hvor A og C 
+ligge. Lad dem være forlængede og mødes 
+paa den Side, hvor B og D ligge, i G. 
+
+Saa er /\ GEF's udvendige Vinkel AEF lig 
+den indvendige og modstaaende Vinkel EFG; 
+
+
+
+41 
+
+hvilket er umuligt. Altsaa ville AB og CD, naar de 
+forlænges, ikke mødes paa den Side, hvor B og 
+D ligge. Paa samme Maade vil det kunne be- 
+vistes, at de heller ikke gøre det paa den Side, 
+hvor A og C ligge. Men Linier, som ikke 
+mødes til nogen af Siderne, ere parallele. Altsaa 
+er AB parallel med CD. 
+
+
+
+
+Altsaa: naar en ret Linie skærer to rette 
+Linier, og Vekselvinklerne ere ligestore, ville de 
+rette Linier være parallele; h. s. b. 
+
+28. 
+
+Naar en ret Linie skærer to rette Linier^ 
+og den udvendige Vinkel er lig den indvendige 
+og modstaaende paa samme Side, eller de ind- 
+vendige Vinkler tilsammen ere lig to rette, ville 
+de rette Linier være parallele. 
+
+
+
+42 
+
+Lad nemlig den rette Linie EF skære de 
+to rette Linier AB og CD, og lad den udven- 
+dige Vinkel EGB være lig den indvendige og 
+modstaaende Vinkel GHD, eller de indvendige 
+Vinkler paa samme Side BGH og GHD til- 
+sammen være lig to rette. Jeg siger da, at AB 
+er parallel med CD. 
+
+Thi da Z, EGB er lig A. GHD, og Z^ EGB 
+
+erlig^AGH, saaer 
+
+
+
+
+Z AGH = Z GHD. 
+Og de ere Veksel- 
+vinkler. Altsaa er 
+AB parallel med CD. 
+Da endvidere 
+ZlBGH + ^GHD 
+er lig to rette, og 
+ZIAGH -f ^BGH 
+ogsaa er lig to rette, 
+saa er Z BGH + ZL GHD = Z AGH + 
+Z BGH. Lad den fælles Vinkel BGH være 
+trukken fra, saa er Resten Z AGH lig Resten 
+Z GHD. Og de ere Vekselvinkler. Altsaa er 
+AB parallel med CD. 
+
+Altsaa: naar en ret Linie skærer to rette 
+Linier, og den udvendige Vinkel er lig den ind- 
+vendige og modstaaende paa samme Side, eller 
+
+
+
+V 
+
+
+
+43 
+
+de indvendige Vinkler paa samme Side tilsammen 
+ere lig to rette, ville de rette Linier være pa- 
+rallele; h. s. b. 
+
+29. 
+
+Naar en ret Linie skærer parallele rette 
+Linier^ ere Vekselvinklerne ligestore^ den ud- 
+vendige Vinkel er lig den indvendige og mod- 
+staaende^ og de indvendige Vinkler paa samme 
+Side ere tilsammen lig to rette. 
+
+Lad nemlig den rette Linie EF skære de 
+parallele rette Linier AB og CD. Jeg siger da, 
+at Vekselvinklerne AGH og GHD ere ligestore, 
+at den udvendige Vinkel EGB er lig den ind- 
+vendige og modstaaende Vinkel GHD, og at 
+de indvendige Vinkler paa samme Side BGH og 
+GHD tilsammen ere lig to rette. 
+
+Thi hvis Z- AGH og Zl GHD ere uligestore, 
+er en af dem størst. Lad Z- AGH være størst, 
+og lad Z-. BGH være lagt til dem begge, saa 
+er Z. AGH + Z BGH større end Z BGH + 
+Z GHD. Men Z AGH + Z BGH er lig to 
+rette. Altsaa er Z BGH + Z GHD mindre end 
+to rette. Men rette Linier mødes, naar de for- 
+længes ubegrænset fra Vinkler, der tilsammen 
+ere mindre end to rette. Altsaa ville AB og 
+
+
+
+' 
+
+
+
+44 
+
+CD mødes, naar de forlænges ubegrænset. Men 
+de mødes ikke, fordi det er givet, at de ere 
+parallele. Altsaa er ^ AGH og ^ GHD ikke 
+uligestore. Altsaa er ^ AGH = Z. GHD. 
+Men ^ AGH er lig ^ EGB. Altsaa er ^ EGB 
+= ^ GHD. Lad nu ^ BGH være lagt til dem 
+begge, saa er ^ EGB + ^ BGH = ^ BGH 
++ ^ GHD. Men ^ EGB + ^ BGH er lig 
+
+to rette. Altsaa 
+er ogsaa ^ BGH 
++ ^ GHD lig to 
+rette. 
+
+Altsaa: naar 
+en ret Linie skæ- 
+rer parallele rette 
+Linier, ere Vek- 
+selvinkleme lige- 
+store, den udven- 
+dige Vinkel er lig den indvendige og modstaa- 
+ende, og de indvendige Vinkler paa samme 
+Side ere tilsammen lig to rette; h. s. b. 
+
+30. 
+
+ReUe Linier, der ere parallele med den 
+samme rette Linie, ere indbyrdes parallele. 
+
+
+
+
+45 
+
+Lad begge de rette Linier AB og CD være 
+parallele med EF. Jeg siger da, at AB er pa- 
+rallel med CD. 
+
+Lad nemlig den rette Linie GI skære dem. 
+
+Da den rette Linie GI har skaaret de pa- 
+rallele rette Linier AB og EF, saa er ^ AGI 
+= ^ GHF. Da endvidere den rette Linie GI 
+har skaaret de parallele rette Linier EF og CD, 
+saa er ^ GHF = z: GID. 
+Men det blev ogsaa 
+bevist, at Z^ AGI er 
+lig ^GHF. Altsaa er 
+Z. AGI = ^ GID. Og 
+de ere Vekselvinkler. Alt- 
+saa er AB parallel medCD . 
+
+Altsaa: rette Linier, der ere parallele med 
+den samme rette Linie, ere indbyrdes parallele; 
+h. s. b. 
+
+
+
+
+31. 
+
+Gennem et givet Punkt at trække en ret 
+Linie^ parallel med en given ret Linie, 
+
+Lad A være det givne Punkt og BC den 
+givne rette Linie. Man skal da gennem Punkt 
+
+
+
+46 
+
+A trække en ret Linie parallel med den rette 
+Linie BC. 
+
+Lad der paa BC være taget et vilkaarligt 
+Punkt D, og lad AD være dragen; lad der ved 
+den rette Linie AD og Punktet A paa den være 
+
+konstrueret ^ DAE 
+
+= Z, ADC, og lad 
+
+den rette Linie AF 
+være afsat i Forlæn- 
+^ gelse af EA. 
+
+Da nu den rette 
+Linie AD har skaaret de to rette Linier BC og 
+EF, og Vekselvinkleme EAD og ADC ere lige- 
+store, saa er EAF parallel med BC. 
+
+Altsaa er der gennem det givne Punkt A 
+trukket den rette Linie EAF parallel med den 
+givne rette Linie BC; h. s. g. 
+
+32. 
+
+/ enhver Trekant er^ naar en af Siderne 
+
+er forlængety den udvendige Vinkel lig de to 
+
+indvendige og modstaa/:nde tilsammen^ og de tre 
+
+Vinkler inde i Trekanten ere tilsammen lig to 
+
+rette. 
+
+Lad ABC være en Trekant, og lad dens 
+ene Side BC være forlænget til D. Jeg siger 
+
+
+
+47 
+
+da, at den udvendige Vinkel ACD er lig de to ' 
+indvendige og modstaaende CAB og ABC til- 
+sammen, og at de tre Vinkler inde i Trekanten 
+ABC, BCA og CAB tilsammen ere lig to rette. 
+Lad nemlig CE være trukken gennem Punkt 
+C parallel med den rette Linie AB. 
+
+Da nu AB er parallel med CE, og den 
+rette Linie AC har skaaret dem, ere Veksel- 
+vinklerne BAC og ACE ligestore. Da paa den 
+I anden Side AB er pa- 
+I rallel med CE, og den 
+rette Linie BD har 
+^ skaaret dem, er den ud- 
+vendige Vinkel ECD lig 
+den indvendige og mod- 
+staaende Vinkel ABC. 
+I Men det blev ogsaa bevist, at Z. ACE er lig 
+I Z, BAC. Altsaa er hele Z. ACD lig de to ind- 
+j vendige og modstaaende Vinkler BAC + ABC. 
+^ Lad nu Z ACB være lagt til dem begge, 
+1 saa er altsaa Z ACD + Z ACB = Z ABC 
++ Z BCA + Z CAB. Men Z ACD + 
+zlACB er lig to rette; altsaa er ogsaa ^ ABC 
++ Z BCA + Z CAB lig to rette. 
+
+Altsaa: i enhver Trekant er, naar en af 
+Siderne er forlænget, den udvendige Vinkel 
+
+
+
+
+48 
+
+lig de to indvendige og modstaaende tilsammen, 
+og de tre Vinkler inde i Trekanten ere tilsam- 
+men lig to rette; h. s. b. 
+
+
+
+
+33- 
+
+Rette Linier^ som forbinde de til hinanden 
+svarende Endepunkter af ligestore og parallele 
+rette Linier, ere selv ligestore og parallele. 
+
+Lad AB og CD være ligestore og parallele, 
+
+og lad de rette Linier 
+AC og BD forbinde 
+de til hinanden sva- 
+rende Endepunkter. 
+Jeg siger da, at AC 
+og BD ere ligestore 
+og parallele. 
+Lad BC være dragen. 
+Da nu AB er parallel med CD, og BC har 
+skaaret dem, saa ere Vekselvinklerne ABC og BCD 
+ligestore. Og da AB er lig CD, og BC er fælles, 
+saa ere de to Sider AB og BC lig de to Sider BC 
+og CD. Desuden er ^ ABC = Z. BCD. Altsaa 
+er Grundlinie AC lig Grundlinie BD ; ^ ABC er 
+lig /\ BCD ; og de øvige Vinkler, overfor hvilke 
+de ligestore Sider ligge, ville være parvis lige- 
+store. Altsaa er A. ACB = Z, CBD. Da nu 
+
+
+
+49 
+
+den rette Linie BC skærer de to rette Linier 
+AC og BD, og Vekselvinklerne ere ligestore, 
+saa er AC parallel med BD. Men det blev 
+ogsaa bevist, at AC er lig BD. 
+
+Altsaa: rette Linier, som forbinde de til 
+hinanden svarende Endepunkter af ligestore og 
+parallele rette Linier, ere selv ligestore og pa- 
+rallele; h. s. b. 
+
+34. 
+
+I et Parallelogram ere de modstaaende Sider 
+og Vinkler indbyrdes ligestore, og Diagonalen 
+halverer Parallelogrammet, 
+
+Lad ACDB være et Parallelogram og BC 
+dets Diagonal. Jeg siger da, at i /~7 ACDB 
+ere de modstaaende Sider og Vinkler indbyrdes 
+ligestore, og at Diagonalen BC halverer det. 
+
+Thi da AB er parallel med CD, og den 
+rette Linie BC har skaaret dem, ere Veksel- 
+vinklerne ABC og BCD ligestore. Da endvidere 
+AC er parallel med 
+BD, ogBC har skaa- 
+ret dem, ere Veksel- 
+vinklerne ACB og 
+CBD ligestore. Alt- 
+saa ere ABC og BCD 
+
+
+
+
+50 
+
+to Trekanter, hvor de to Vinkler ABC og BC A 
+ere parvis lig de to Vinkler BCD og CBD, og 
+hvor et Par Sider ere ligestore, nemlig Fælles- 
+siden BC, som ligger mellem de ligestore Vinkler. 
+Altsaa ville de ogsaa have de øvrige Sider parvis 
+ligestore og det tredje Par Vinkler ligestore. 
+Altsaa er AB = CD, AC = BD og ^ BAG 
+= Z. CDB. Da nu Z, ABC er lig Z. BCD, og 
+Z CBD er lig Z ACB, saa er hele Z ABD lig 
+hele Z ACD. Men det blev ogsaa bevist, at 
+Z BAC er lig Z CDB. 
+
+Altsaa : i ét Parallelogram ere de modstaa- 
+ende Sider og Vinkler indbyrdes ligestore. 
+
+Jeg siger endvidere, at Diagonalen halverer 
+Parallelogrammet. Thi da AB er lig CD, og 
+BC er fælles, saa ere de to Sider AB og BC 
+parvis lig de to Sider CD og BC ; og Z ABC 
+er lig Z BCD. Altsaa er Grundlinie AC lig 
+Grundlinie DB, og /\ ABC er lig /\ BCD. 
+
+Altsaa : Diagonalen BC halverer [^J ABCD ; 
+h. s. b. 
+
+35. 
+
+Parallelogrammer paa samme Grundlinie 
+og mellem de samme Paralleler ere ligestore. 
+
+
+
+51 
+
+Lad ABCD og EBCF være Parallelogrammer 
+paa samme Grundlinie BC og mellem de samme 
+Paralleler AF og BC. Jeg siger darOABCD 
+= /UEBCF. 
+
+Thi da ABCD er et Parallelogram, er AD 
+= BC. Af samme Grund er ogsaa EF = BC. 
+Følgelig er AD = EF. Og DE er fælles. 
+Altsaa er hele AE lig hele DF. Desuden er 
+AB = DC. Altsaa ere de to Sider EA og AB 
+
+
+
+
+parvis lig de to Sider FD og DC; og ^FDC 
+er lig Z^ EAB, nemlig den udvendige lig den 
+indvendige; altsaa er Grundlinie EB lig Grund- 
+linie FC ; og A EAB vil være lig A DFC. Lad 
+den fælles DGE være trukken fra, saa er Resten 
+Firkant ABGD lig Resten Firkant EGCF. Lad 
+^GBC være lagt til dem begge, saa er hele 
+OJ ABCD lig hele OJ EBCF. 
+
+Altsaa: Parallelogrammer paa samme Grund- 
+
+
+
+4* 
+
+
+
+52 
+
+linie og mellem de samme Paralfeler ere lige- 
+store; h. s. b. 
+
+36- 
+
+Par dllelogr ammer paa ligestore Grundlinier 
+og mellem de samme Paralleler ere ligestore. 
+
+Lad ABCD og EFGH være Parallelo- 
+grammer paa ligestore Grundlinier BC og FG 
+
+
+
+
+og mellem de samme Paralleler AH og BG. 
+Jeg siger da: O ABCD = O EFGH. 
+
+Lad nemlig BE og CH være drap^ne. 
+
+Da nu BC er lig FG, men FG er lig EH, saa er 
+ogsaa BC = EH. Desuden ere de parallele, 
+og EB ogHC forbinde dan. Men rette Linier, 
+som forbinde de til hinanden svarende Ende- 
+punkter af ligestore og parallele rette Linier, ere 
+ligestore og parallele. Altsaa er EBCH et Pa- 
+rallelogram. Og det er lig n ABCD ; thi de 
+
+
+
+53 
+
+have samme Grundlinie BC og ligge mellem de 
+samme Paralleler BC og AH. Af samme Grund 
+er ogsaa [Z] EFGH = [Z] EBCH. Følgelig er 
+^^ABCD = £17 EFGH. 
+
+Altsaa: Parallelogrammer paa ligestore 
+Grundlinier og mellem de samme Paralleler ere 
+ligestore; h. s. b. 
+
+37. 
+Trekanter paa samme Grundlinie og mellem 
+
+de samme Paralleler ere ligestore. 
+
+Lad ABC og DBC være Trekanter paa 
+samme Grundlinie BC og mellem de samme 
+Paralleler AD og BC. Jeg siger da: /\ ABC 
+= ADBC. 
+
+Lad AD være forlænget til begge Sider til E 
+og F, lad BE være trukken gennem B parallel med 
+CA, og lad CF være trukken gennem C parallel 
+med BD. 
+
+Saa ere EBCA og DBCF Parallelogrammer ; 
+og de ere ligestore, thi de ligge paa samme Grund- 
+linie BC og mellem 
+
+de samme Paral- ^. 4 
+
+leler BC og EF. 
+Men A ABC er 
+
+Halvdelen af 
+2C7EBCA,thiDia- 
+
+
+
+
+54 
+
+gonalAB halverer det; og /\ DBC er Halvdelen 
+af OJ DBCF, thi Diagonal DC halverer det ; 
+altsaa er A ABC = A DBC. 
+
+Altsaa: Trekanter paa samme Grundlinie 
+og mellem de samme Paralleler ere ligestore; 
+h. s. b. 
+
+38. 
+
+Trekanter paa ligestore Grundlinier og 
+mellem de samme Paralleler ere ligestore. 
+
+Lad ABC og DEF være Trekanter paa 
+ligestore Grundlinier BC og EF og mellem de 
+samme Paralleler BF og AD. Jeg siger da: 
+AABC = ADEF. 
+
+Lad nemlig AD være forlænget til begge 
+Sider til G og H, lad BG være trukken gennem 
+B parallel med CA, og lad FH være trukken 
+gennem F parallel med ED. 
+
+Saa ere baade GBCA og DEFH Parallelo- 
+grammer; og^^ GBCA er lig O DEFH ; thi de 
+
+ligge paa ligestore 
+Grundlinier BC og 
+EF og mellem de 
+samme Paralleler BF 
+ogGH. MenAABC 
+
+er Halvdelen af 
+O GBCA, thi Dia- 
+
+
+
+
+55 
+
+gonal AB halverer det; og /\ FED er Halv- 
+delen af [Z/ DEFH, thi Diagonal DF halverer 
+det; altsaa er ^ABC = ^DEF. 
+
+Altsaa : Trekanter paa ligestore Grundlinier 
+og mellem de samme Paralleler ere ligestore; 
+h. s. b. 
+
+
+
+39. 
+
+Ligestore Trekanter paa samme Grundlinie 
+og paa samme Side ligge ogsaa mellem de samme 
+Paralleler. 
+
+Lad ABC og DBC være ligestore Trekanter 
+paa samme Grundlinie BC og paa samme Side 
+af BC. Jeg siger da, at de ogsaa ligge mellem 
+de samme Paralleler. 
+
+Lad nemlig AD være dragen. Jeg siger 
+da, at AD er parallel med BC. 
+
+Thi, hvis ikke, saa lad AE være trukken 
+. gennem Punkt A parallel med den rette Linie 
+BC, og lad EC være dragen. 
+
+Saa er l\ ABC 
+= A EBC; thi ^ 
+
+de ligge paa 
+samme Grund- 
+linie BC og mel- 
+lem de samme 
+
+
+
+
+56 
+
+Paralleler. Men/\ABC er ogsaalig ADBC. Alt- 
+saa er /\ DBC = ^ EBC, en større lig en 
+mindre ; hvilket er umuligt. Altsaa er AE ikke pa- 
+rallel med BC. Paa samme Maade ville vi kunne 
+bevise, at heller ikke nogen anden er det und- 
+tagen AD. Altsaa er AD parallel med BC. 
+
+Altsaa: ligestore Trekanter paa samme 
+Grundlinie og paa samme Side ligge ogsaa 
+mellem de samme Paralleler; h. s. b. 
+
+40. 
+
+Ligestore Trekanter paa ligestore Gruyid- 
+linier og paa samme Side ligge ogsaa m.ellem^ 
+de samme Paralleler. 
+
+Lad ABC og DCE være ligestore Trekanter 
+paa ligestore Grundlinier BC og CE og paa 
+samme Side. Jeg siger da, at de ogsaa ligge 
+mellem de samme Paralleler. 
+
+Lad nemlig AD være dragen. Jeg siger da, 
+at AD er parallel med BC. 
+
+Thi, hvis ikke, saa lad AF være trukken 
+gennem A parallel med BE, og lad FE være 
+dragen. 
+
+Saa er A ABC = C\ FCE; thi de 
+l^SS^ P3^ ligestore Grundlinier BC og CE og 
+mellem de samme Paralleler BE og AF. Men 
+A ABC er ogsaa lig A DCE. Altsaa er l\ DCE 
+
+
+
+57 
+
+= /\FCE, en større lig en mindre; hvilket er 
+umuligt. Altsaa er AF ikke parallel med BE. 
+Paa samme Maade ville vi kunne bevise, at 
+
+
+
+
+heller ikke nogen anden er det undtagen AD. 
+Altsaa er AD parallel med BE. 
+
+Altsaa: ligestore Trekanter paa ligestore 
+Grundlinier og paa samme Side ligge ogsaa 
+mellem de samme Paralleler; h. s. b. 
+
+41. 
+
+Naar et Parallelogram har samme Grund- 
+linie som en Trekant og ligger mellem, de samme 
+Paralleler, er Parallelogrammet dobbelt saa stort 
+som. Trekanten. 
+
+Lad nemlig /~7 ABCD have samme Grund- 
+linie som l\ EBC, nemlig BC, og ligge mellem 
+de samme Paralleler BC og AE. Jeg siger da: 
+O ABCD = 2ABEC. 
+
+Lad AC være dragen. 
+
+
+
+58 
+
+Saaer^ABC = /^EBC; thi de ligge paa 
+samme Grundlinie BC og mellem de samme Paral- 
+leler BC og AE. Men /I7ABCD er lig 2 /\ ABC ; 
+
+
+
+
+thi Diagonal AC halverer det. Følgelig er ogsaa 
+OABCD = 2AEBC. 
+
+Altsaa: naar et Parallelogram har samme 
+Grundlinie som en Trekant og ligger mellem de 
+samme Paralleler, er Parallelogrammet dobbelt 
+saa stort som Trekanten; h. s. b. 
+
+42. 
+
+At konstruere et Parallelogram lig en given 
+Trekant og med en given retlinet Vinkel, 
+
+Lad ABC være den givne Trekant og D 
+den givne retlinede Vinkel. Man skal da kon- 
+struere et Parallelogram lig /\ ABC og med den 
+retlinede Vinkel D. 
+
+Lad BC være halveret i E, lad AE være 
+dragen, lad ^ CEF = -^ D være konstrueret 
+
+
+
+59 
+
+ved den rette Linie EC og Punkt E paa den, lad 
+AG være trukken gennem A parallel med EC, og 
+lad CG være trukken gennem C parallel med EF. 
+
+Saa er FECG et Parallelogram. Da nu 
+BE er lig EC, er /\ ABE = /\ AEC; thi 
+de ligge paa ligestore Grundlinier BE og EC 
+og mellem de samme Paralleler BC og AG. 
+Altsaa er /\ ABC 
+= 2/\ AEC. Men 
+r^ FECG er ogsaa 
+Ug 2 A AEC; thi 
+de have samme 
+Grundlinie og ligge 
+mellem de samme 
+
+Paralleler. Altsaa er O FECG = A ABC. 
+Og det har Vinkelen CEF lig den givne Vinkel D. 
+
+Altsaa er der konstrueret Parallelogrammet 
+FECG lig den givne Trekant ABC og med 
+^ CEF, som er lig D; h. s. g. 
+
+43- 
+/ ethvert Parallelogram ere Udfyldnings- 
+
+figurerne til Par alle logr ammerne omkring Dia- 
+gonalen ligestore. 
+
+Lad ABCD være et Parallelogram og AC 
+dets Diagonal, lad EG og FH være Parallelo- 
+grammer omkring AC, og BI og ID de saa- 
+
+
+
+
+6o 
+
+kaldte Udfyldningsfigurer. Jeg siger da, atUd- 
+fyldningsfigur BI er lig Udfyldningsfigur ID. 
+
+Thi da ABCD er et Parallelogram og AC 
+dets Diagonal, er A ABC = /\ ACD. Da 
+endvidere EG er et Parallelogram, og AI dets 
+Diagonal, er /\ AEI = /\ AGI. Af samme 
+Grund er A IFC = A IHC. Da nu A AEI 
+er lig A AGI, og A IFC er lig A IHC, saa 
+er A AEI + AIHC = A AGI + A IFC; 
+
+
+
+
+desuden er hele A ABC lig hele A ADC ; alt- 
+saa er Resten Udfyldningsfigur BI lig Resten 
+Udfyldningsfigur ID. 
+
+Altsaa: i ethvert Parallelogram ere Udfyld- 
+ningsfigurerne til Parallelogrammerne omkring 
+Diagonalen ligestore; h. s. b. 
+
+44- 
+
+Langs en given ret Linie at lægge et Pa- 
+rallelogram lig en given Trekant og med en 
+given retlinet Vinkel, 
+
+
+
+6i 
+
+
+
+Lad AB være den givne rette Linie, C den 
+givne Trekant og D den givne retlinede Vinkel. 
+Man skal da langs den givne rette Linie AB lægge 
+et Parallelogram lig den givne Trekant C og 
+med en Vinkel lig D. 
+
+Lad /"^BEFG være tegnet lig A C og 
+med A. EBG, som er lig D, og lad det være 
+lagt, saa at BE og AB ligge i Forlængelse af 
+
+
+
+
+hinanden, lad FG være fortsat til H, lad AH 
+være trukken gennem A parallel medBG eller 
+EF, og ladHB være dragen. 
+
+Da nu den rette Linie HF har skaaret Paralle- 
+lerae AH og EF, saa er Z. AHF + Z, HFE lig to 
+rette. Altsaa er Z BHG + Z GFE mindre end 
+to rette. Men rette Linier mødes, naar de forlænges 
+ubegrænset fra Vinkler, der tilsammen ere mindre 
+end to rette. Altsaa ville HB og FE mødes, 
+
+
+
+62 
+
+naar de forlænges. Lad dem være forlængede 
+og mødes i I, lad IK være trukken gennem 
+Punkt I parallel med EA eller FH, og lad HA og 
+GB være forlængede til Punkterne K og L. 
+Saa er HKIF et Parallelogram, HI dets Diagonal, 
+AG og LE Parallelogrammer omkring HI, og 
+KB og BF de saakaldte Udfyldningsfigurer. 
+Altsaa er KB = BF. Men BF er lig /\ C. 
+Altsaa er ogsaa KB = C. Og da ^ GBE er 
+lig ^ ABL, og ^ GBE er lig D, saa er ^ ABL 
+
+Altsaa er der langs den givne rette Linie 
+AB lagt Parallelogrammet KB lig den givne 
+Trekant C og med -^ ABL, som er lig D; h. s. g. 
+
+
+
+45. 
+
+At konstruere et Parallelogram lig en given 
+retlinet Figur og med en given retlinet Vinkel. 
+
+Lad ABCD være den givne retlinede Figur 
+og E den givne retlinede Vinkel. Man skal da 
+konstruere et Parallelogram lig den retlinede 
+Figur ABCD og med den givne Vinkel E. 
+
+Lad DB være dragen, og lad der være 
+konstrueret et Parallelogram FH = /\ ABD og 
+med Z- HIF, som er lig E, og lad der langs 
+
+
+
+63 
+
+
+
+den rette Linie GH være lagt et Parallelogram 
+GL = /\ DBC og med ^ GHL, som er lig E. 
+Da nu zl E baade er lig ^ HIF og Zl GHL, 
+saa er ^ HIF = ^ GHL. Lad zl IHG være lagt 
+til dem begge, saa er ^ FIH + zl IHG = 
+^ IHG + ^ GHL. Men ^ FIH + ^ IHG 
+er lig to rette. Altsaa er ^ IHG + ^ GHL 
+ogsaa lig to rette. Da ere de to rette Linier 
+IH og HL tegnede ud fra en ret Linie GH og 
+
+
+
+
+et Punkt Hpaa den til hver sin Side, saa at Vink- 
+lerne ved Siden af hinanden tilsammen ere lig 
+to rette. Altsaa ligge IH og HL i Forlængelse 
+af hinanden. Da nu den rette Linie HG har 
+skaaret IL og FG, ere Vekselvinkleme LHG 
+og HGF ligestore. Lad Zl HGK være lagt til 
+dem begge, saa er zl LHG + ^ HGK = 
+^ HGF + ^ HGK. Men ^ LHG + ^ HGK 
+er lig to rette. Altsaa er Z. HGF + Z. HGK 
+ogsaa lig to rette. Altsaa ligge FG og GK i 
+
+
+
+64 
+
+Forlængelse af hinanden. Da nu IF er lig og 
+parallel med HG, og HG er lig og parallel med 
+LK, saa er IF lig og parallel med LK; og de 
+rette Linier IL og FK forbinde deres til hin- 
+anden svarende Endepunkter; altsaa ere ogsaa 
+IL og FK ligestore og parallele. Altsaa er 
+IFKL et Parallelogram. Da nu /\ ABD er lig 
+/~7 FH, og /\ DBC er lig GL, saa er hele den 
+retlinede Figur ABCD lig hele O IFKL. 
+
+Altsaa er der konstrueret Parallelogrammet 
+IFKL lig den givne retlinede Figur og med 
+-^FIL, som er lig den givne Vinkel E; h. s. g. 
+
+
+
+46. 
+
+At tegne et Kvadrat paa en given ret Linie, 
+Lad AB være den givne rette Linie. Man 
+skal da tegne et Kvadrat paa den givne rette 
+Linie AB. 
+
+Lad AC være oprejst fra Punkt A paa den 
+rette Linie AB vinkelret paa AB, og lad AD 
+være afsat lig AB; lad DE være trukken gennem 
+Punkt D parallel med AB, og lad BE være 
+trukken gennem Punkt B parallel med AD. Saa 
+er ADEB et Parallelogram. Altsaa er AB = 
+
+
+
+65 
+
+
+
+DE og AD = BE. Men AB er lig AD; 
+
+altsaa ere de fire BA, AD, DE og EB 
+
+ligestore. Altsaa er /~~7 ADEB ligesidet. Jeg 
+
+siger da, at det ogsaa er retvinklet. Thi da 
+
+den rette Linie AD har skaaret Parallelerne AB 
+
+og DE, saa er Z. BAD + Z. ADE 
+
+lig to rette. Men Zl BAD er 
+
+ret. Altsaa er Z ADE ogsaa 
+
+ret. Nu ere i et Parallelogram 
+
+de modstaaende Sider og Vinkler 
+
+indbyrdes ligestore. Altsaa ere 
+
+ogsaa begge de modstaaende 
+
+Vinkler ABE og BED rette. 
+
+Altsaa er CJ ADEB retvinklet. 
+
+Desuden blev det bevist, at det er ligesidet. 
+
+Altsaa er det et Kvadrat, og det er tegnet 
+paa den rette Linie AB; h. s. g. 
+
+
+
+
+47. 
+
+/ en retvinklet Trekant er Kvadratet paa 
+den Side, der ligger overfor den rette Vinkel, 
+lig Summen af Kvadraterne paa de Sider, der 
+indeslutte den rette Vinkel. 
+
+Lad ABC være en retvinklet Trekant, hvor 
+
+5 
+
+
+
+66 
+
+
+
+BAC er ret. Jeg siger da, at □ BC er lig^ 
+DBA + DAC. 
+
+Lad der nemlig paa BC være tegnet et 
+Kvadrat BDEC og paa BA og AC Kvadra- 
+terne GB ogHC, lad AK være trukken gennem 
+A parallel med BD eller CE, og lad AD og^ 
+FC være dragne. 
+
+Da nu begge Vinklerne BAC og BAG 
+ere rette, saa ere de to rette Linier AC og 
+AG tegnede ud fra et Punkt A paa en ret 
+Linie AB til hver sin Side, saa at Vinklerne ved 
+
+Siden af hinan- 
+den ere lig ta 
+rette. Altsaa 
+
+ligge AC og AG 
+i Forlængelse af 
+hinanden. Af 
+samme Grund 
+ligge ogsaa BA 
+og AH i Forlæn- 
+gelse af hinanden. 
+Nu er Z. DBC 
+= Z. FBA; thi 
+de ere begge 
+rette. Lad Z ABC være lagt til dem begge, 
+saa er hele Z DBA lig hele Z. FBC. Da nu 
+
+
+
+
+67 
+
+DB er lig BC, og FB er lig BA, saa ere de to 
+Sider DB og BA parvis lig de to Sider CB og 
+BF ; og ^ DBA er lig Z. FBC ; altsaa er Grund- 
+linie AD lig Grundlinie FC; og A ABD er lig 
+AFBC. Men /I7BK er lig 2 AABD ; thi de have 
+samme Grundlinie BD og ligge mellem de 
+samme Paralleler BD og AK; og Kvadrat 
+GB er lig 2 A FBC, thi de have samme 
+Grundlinie FB og ligge mellem de samme 
+Paralleler FB og GC; altsaa er/~7BK lig Kva- 
+drat GB. Paa samme Maade vil man ved at 
+drage AE og BI kunne bevise, at A~7CK er 
+lig Kvadrat HC. Altsaa er hele Kvadrat BDEC 
+lig Summen af de to Kvadrater GB og HC. 
+Men BDEC er Q BC, GB . og HC ere Q BA 
+og □ AC. Altsaa er Q BC = QBA + 
+DAC. 
+
+Altsaa : i en retvinklet Trekant er Kvadratet 
+paa den Side, der ligger overfor den rette Vinkel, 
+lig Summen af Kvadraterne paa de Sider, der 
+indeslutte den rette Vinkel; h. s. b. 
+
+
+
+48. 
+
+Naar Kvadratet paa en af Siderne i en 
+Trekant er lig Summen af Kvadraterne paa 
+
+
+
+68 
+
+
+
+Trekantens to andre Sider, er den Vinkel, der 
+indesluttes af Trekantens to andre Sider, ret. 
+
+Lad nemlig Kvadratet paa en af Siderne 
+BC i A ABC være lig Summen af Kvadraterne 
+paa Siderne BA og AC. Jeg siger da, at Zl BAC 
+er ret. 
+
+Lad nemlig AD være oprejst fra Punkt A 
+vinkelret paa den rette Linie AC, lad AD 
+være afsat lig BA, og lad DC være dragen. 
+Da nu DA er lig AB, er ogsaa □ DA = 
+□ AB. Lad □ AC være lagt til dem begge, 
+saa er □ DA + n AC = D BA + □ AC. 
+Men □ DC er lig D DA + □ AC, thi 
+
+^DAC er ret; og D BC 
+er lig D BA + n AC, 
+thi det er givet; altsaa er 
+□ DC = n BC. Følge- 
+lig er Side DC ogsaa lig 
+Side BC. Da tillige DA 
+er lig AB, og AC er 
+fælles, saa ere de to Sider 
+DA og AC lig de to 
+Sider BA og AC; og Grundlinie DC er lig 
+Grundlinie BC; altsaa er Z. DAC = Zl BAC. 
+Men Z, DAC er ret. Altsaa er Z. BAC 
+ogsaa ret. 
+
+
+
+
+69 
+
+Altsaa: naar Kvadratet paa en af Siderne 
+i en Trekant er lig Summen af Kvadraterne 
+paa Trekantens to andre Sider, er den Vinkel, 
+der indesluttes af Trekantens to andre Sider, 
+ret; h. s. b. 
+
+
+
+II. 
+
+Definitioner. 
+
+
+
+1. Ethvert Rektangel siges at indesluttes 
+af to af de rette Linier, der indeslutte den 
+rette Vinkel. 
+
+2. I ethvert Parallelogram kan man kalde 
+et hvilketsomhelst af Parallelogrammerne om- 
+kring dets Diagonal sammen med de to Ud- 
+fyldningsfigurer for en Gnomon. 
+
+I. 
+
+Naar man har to rette Linier^ og den ene 
+af dem er delt i et vilkaarligt Antal Stykker, 
+er det Rektangel, der indesluttes af de to rette 
+Linier y lig Summen af de Rektangler , der inde- 
+sluttes af den udelte rette Linie og hvert af 
+Stykkerne. 
+
+
+
+71 
+
+
+
+Lad A og BC være de to rette Linier, og 
+lad BC være delt vilkaarligt i Punkterne D og 
+E. Jeg siger da: □ A, BC = | | A, BD + 
+□ A, DE + nA, EC.*) 
+
+
+
+Lad nemlig BF være oprejst fraB vinkelret l. u 
+paa BC ; lad BG være afsat lig A, lad GH være 
+trukken gennem G parallel medBC, og lad DI, I. 31 
+EK og CH være trukne 
+gennem D, E og C ^ 
+
+parallele med BG. 
+
+Da er BH = BI 
++ DK + EH. Men 
+BH er □ A, BC, thi 
+
+
+
+det indesluttes af GB 
+og BC, og BG er lig 
+A; BI er □ A, BD, 
+
+
+
+
+thi det indesluttes af GB og BD, og BG er 
+lig A; DK er n A, DE, thi DI, det vil 
+sige BG, er lig A; endelig faas paa sammel. 34 
+Maade, at EH er □ A, EC. Altsaa er □ A, BC 
+= □ A, BD + □ A, DE + n A, EC. 
+
+Altsaa: naar man har to rette Linier, og 
+den ene af dem er delt i et vilkaarligt Antal 
+Stykker, er det Rektangel, der indesluttes af de 
+to rette Linier, lig Summen af de Rektangler, 
+
+
+
+*) (a + b + c) d = ad + bd + cd. 
+
+
+
+72 
+
+
+
+I. 46 
+
+
+
+1. 31 
+
+
+
+der indesluttes af den udelte rette Linie og 
+hvert af Stykkerne; h. s. b. 
+
+2. 
+Naar en ret Linie er delt vilkaarligt^ er 
+Summen af de Rektangler, der indesluttes af hele 
+Linien og hvert af Stykkerne^ lig Kvadratet paa 
+hele Linien, 
+
+Lad nemlig den rette Linie AB være delt 
+vilkaarligt i Punktet C. Jeg siger da : | | AB, BC 
++ □BA,AC = DAB.*) 
+
+Lad der nemlig paa AB være tegnet et 
+
+Kvadrat ADEB, og lad CF 
+være trukken gennem C pa- 
+rallel med AD eller BE. 
+
+Da er AE = AF + CE. 
+
+Men AE er Q AB; AF er 
+
+BA, AC, thi det indesluttes 
+
+
+
+
+I. Def. 22 
+
+
+
+af DA og AC, og DA er lig 
+AB; og CE er □ AB, BC, thi BE er lig AB. 
+Altsaa er □ BA, AC + □ AB, BC = □ AB. 
+
+
+
+Altsaa: naar en ret Linie er delt vilkaar- 
+ligt, er Summen af de Rektangler, der indesluttes 
+af hele Linien og hvert af Stykkerne, lig Kva- 
+dratet paa hele Linien; h. s. b. 
+
+
+
+•) (a + b) a + (a + b) b = (a + b)«. 
+
+
+
+73 
+
+
+
+3. 
+
+Naar en ret Linie er delt vilkaarligt, er 
+det Rektangel, der indesluttes af hele Linien og 
+et af Stykkerne^ lig Summen af Kvadratet paa 
+Stykket og det Rektangel, der indesluttes af 
+Stykkerne, 
+
+Lad nemlig den rette Linie AB være delt 
+vilkaarligt i C. Jeg siger da: | | AB, BC = 
+□ AC,CB + DBC.*) 
+
+Lad der nemlig paa CB være tegnet etl. 46 
+Kvadrat CDEB, lad ED være fortsat til F, og 
+lad AF være trukken 
+
+gennem A parallel med å r ^ l- 3' 
+
+CD eller BE. 
+
+Da er AE = AD 
+-h CE. Men AE er 
+
+AB, BC, thi det inde- 
+
+
+
+
+sluttes af AB og BE, og 
+BE er lig BC; AD er 
+
+
+
+AC, CB, thi DC er 
+lig CB ; og DB er Q CB. Altsaa er □ AB,BC 
+
+
+
+= QACCB + DBC. 
+
+Altsaa: naar en ret Linie er delt vilkaarligt, 
+er det Rektangel, der indesluttes af hele Linien 
+og et af Stykkerne, lig Summen af Kvadratet 
+
+
+
+*) (a + b) b = ab + b«. 
+
+
+
+74 
+
+paa Stykket og det Rektangel, der indesluttes 
+af Stykkerne ; h. s. b. 
+
+
+
+Naar en ret Linie er delt vilkaarligt^ er 
+Kvadratet paa hele Linien lig Summen af Kva- 
+draterne paa Stykkerne og to Gange det Rekt- 
+angel, der indesluttes af Stykkerne, 
+
+Lad nemlig den rette Linie AB være delt 
+vilkaarligt i C. Jeg siger da: QAB = QAC 
++ QCB + 2nAC,CB.*) 
+
+
+
+Lad der nemlig paa AB være tegnet et 
+
+Kvadrat ADEB, lad BD være dragen, lad CF 
+
+I. 30— 3 1 være trukken gennem C parallel med AD eller 
+
+EB, og lad HI være trukken gennem G parallel 
+
+med AB eller DE. 
+
+Da nu CF er parallel med AD, og BD har 
+I. 29 skaaret dem, er den udvendige Vinkel CGB lig den 
+
+indvendige og modstaaende 
+Vinkel ADB; og ^ ADB er lig 
+Z. ABD, fordi Side BA er lig 
+Side AD; altsaa er Z. CGB 
+= Z. GBC ; følgelig er Side 
+BC lig Side CG. Men CB 
+I. 34 ^ ^ ^ er lig GI; og CG er lig IB; 
+
+
+
+I. 5 
+
+
+
+I. 6 
+
+
+
+
+•) (a + b)2 = a« + b2 -f 2ab. 
+
+
+
+75 
+
+altsaa er GI = IB. Altsaa er CGIB ligesidet. 
+Knd videre siger jeg, at den ogsaa er retvinklet. 
+Thi da CG er parallel med BI, saa er ^IBC 
+-h ^ GCB lig to rette ; og A. IBC er ret ; altsaa i. 29 
+er ^ BCG ogsaa ret; følgelig ere de modstaaende 
+Vinkler CGI og GIB ogsaa rette. Altsaa er I. 34 
+CGIB retvinklet. Men det blev ogsaa bevist, 
+at den er ligesidet. Altsaa er den et Kvadrat; 
+og den er □ CB. Af samme Grund er HF 
+ogsaa et Kvadrat; og den er □ HG, det vil I. 34 
+sige □ AC. Altsaa ere HF og IC □ AC og 
+n CB. Og da AG er lig GE, og AG er I. 43 
+I I AC, CB, thi GC er lig CB, saa er GE = 
+I I AC, CB. Altsaa er AG + GE = 2 □ AC, CB. 
+Desuden ere Kvadraterne HF og CI □ AC og 
+n CB. Altsaa ere de fire HF + CI + AG + 
+GE = n AC + D CB + 2 □ AC, CB. Men 
+HF + CI + AG + GE er hele ADEB, som 
+er n AB. Altsaa er n AB = D AC + d CB 
++ 2 I I AC, CB. 
+
+Altsaa: naar en ret Linie er delt vilkaarligt, 
+er Kvadratet paa hele Linien lig Summen af 
+Kvadraterne paa Stykkerne og to Gange det 
+Rektangel, der indesluttes af Stykkerne; h. s. b. 
+
+
+
+76 
+
+
+
+5. 
+
+Naar en ret Linie er delt i ligestore og i 
+uligestore Stykker^ er det Rektangel^ der inde- 
+sluttes af hele Liniens uligestore Stykker^ samt 
+Kvadratet paa Stykket melletn Delingspunkteme 
+lig Kvadratet paa Halvdelen, 
+
+Lad nemlig en ret Linie AB være delt i 
+ligestore Stykker i C og i uligestore Stykker i 
+D. Jeg siger da: QAD, DB + □ CD = 
+D CB.*) 
+
+Lad der nemlig paa CB være tegnet et 
+Kvadrat CEFB, lad BE være dragen, lad DG 
+
+
+
+
+være trukken gennem D parallel med CE eller 
+BF, lad endvidere IL være trukken gennem H 
+parallel med AB eller EF, og lad endelig AI være 
+trukken gennem A parallel med CK eller BL. 
+
+
+
+•)ab + (i±-^_b\* = ( 
+
+
+
+a + b\2 
+
+
+
+77 
+
+Nu er Udfyldningsfigur CH lig Udfyldnings- 
+figur HF; lad saaDL være lagt til dem begge, 
+saa er hele CL lig hele DF. Men CL er lig 
+AK, fordi AC er lig CB. Altsaa er AK = DF. 
+Lad CH være lagt til dem begge, saa er hele 
+AH lig Gnomon MNO. Men AH er □ AD, DB, 
+thi DH er lig DB; altsaa er Gnomon MNO = 
+^ AD, DB. Lad KG, som er lig □ CD, være 
+
+
+
+lagt til dem begge, saa er Gnomon MNO + 
+KG = □ AD, DB + D CD. Men Gnomon 
+MNO + KG er hele Kvadratet CEFB, som er 
+n CB. Altsaa er □ AD, DB + Q CD = 
+DCB. 
+
+Altsaa: naar en ret Linie er delt i ligestore 
+og i uligestore Stykker, er det Rektangel, der 
+indesluttes af hele Liniens uligestore Stykker, 
+samt Kvadratet paa Stykket mellem Delings- 
+punkterne lig Kvadratet paa Halvdelen ; h. s. b. 
+
+6. 
+
+Naar en ret Linie er halveret^ og en anden 
+ret Linie er afsat i Forlængelse af den^ saa er 
+det Rektangel, der indesluttes af hele Linien 
+med dens Forlængelse og Forlængelsen^ samt 
+Kvadratet paa Halvdelen lig Kvadratet paa den 
+
+
+
+78 
+
+
+
+rette Linie ^ der er sammensat af Halvdelen og 
+Forlængelsen, 
+
+Lad nemlig en ret Linie være halveret i 
+Punktet C, og lad en ret Linie BD være afsat 
+i Forlængelse af den. Jeg siger da: | | AD, DB 
++ DCB = DCD.*) 
+
+Lad der nemlig paa CD være tegnet et 
+Kvadrat CEFD, lad DE være dragen, lad BG 
+være trukken gennem Punkt B parallel med EC 
+eller DF, lad IL være trukken gennem Punkt 
+H parallel med AB eller EF, og lad endelig AI 
+
+være trukken gennem 
+A parallel med CK 
+eller DL. 
+
+Da nu AC er lig 
+CB, er AK = CH ; og 
+CH er lig HF ; AK er 
+altsaa ogsaa lig HF. 
+Lad CL være lagt til dem begge, saa er hele AL 
+lig Gnomon MNO. Men AL er □ AD, DB, 
+thi DL er lig DB, altsaa er Gnomon MNO = 
+I I AD, DB. Lad KG, som er lig □ BC, være 
+
+AD, DB + D CB 
+
+
+
+
+lagt til dem begge, saa er 
+
+= Gnomon MNO + KG. Men Gnomon MNO 
+
+
+
+•) 
+
+
+
+(^-^^)^+(T)^=(T+r. 
+
+
+
+79 
+
+4- KG er hele Kvadratet CEFD, som er □ CD. 
+
+Altsaa er □ AD, DB + D CB = Q CD. 
+
+Altsaa: naar en ret Linie er halveret, og 
+en anden ret Linie er afsat i Forlængelse af den, 
+saa er det Rektangel, der indesluttes af hele 
+Linien med dens Forlængelse og Forlængelsen, 
+samt Kvadratet paa Halvdelen lig Kvadratet 
+paa den rette Linie, der er sammensat af Halv- 
+delen og Forlængelsen; h. s. b. 
+
+7. 
+
+Naar en ret Linie er delt vilkaarligt^ er 
+Summen af Kvadraterne paa hele Linien og paa 
+det ene Stykke lig Summen af to Gange det 
+Rektangel, der indesluttes af hele Linien og 
+Stykkety og Kvadratet paa det andet Stykke. 
+
+Lad nemlig en ret Linie AB være delt vil- 
+kaarligt i Punktet C. Jeg siger da: □ AB + 
+DBC = 2nAB,BC + DCA.*) 
+
+Lad der nemlig paa AB være tegnet et 
+Kvadrat ADEB, og lad Figuren være tegnet. 
+
+Nu er AG = GE; lad saa CF være lagt til 
+dem begge, saa er hele AF lig hele CE. Altsaa 
+er AF + CE dobbelt saa stor som AF. Men 
+AF + CE er Gnomon IKL + CF ; altsaa er 
+
+
+
+*) (a + b)« + b« = 2 (a +b) '*. b-f- a 
+
+
+
+80 
+
+Gnomon IKL + CF dobbelt saa stor som AF. 
+Men det dobbelte af AF er 2 
+
+
+
+AB,BC, thi 
+BF er lig BC ; altsaa er Gnomon IKL + CF = 
+AB, BC. Lad DG, som er □ AC, være 
+
+
+
+lagt til dem begge, saa er Gnomon IKL + BG 
+
++ GD = 2 1 |AB,BC + 
+
+
+
+
+□ AC. Men Gnomon IKL 
++ BG + GD er hele Kva- 
+dratet ADEB + CF, hvilket 
+
+er □ AB 4- □ BC. Altsaa 
+
+er □ AB + □ BC = 
+AB,BC + QAC. 
+
+
+
+Altsaa : naar en ret Linie er delt vilkaarligt, 
+er Summen af Kvadraterne paa hele Linien og 
+paa det ene Stykke lig Summen, af to Gange 
+det Rektangel, der indesluttes af hele Linien og 
+Stykket, og Kvadratet paa det andet Stykke ; 
+h. s. b. * 
+
+
+
+8. 
+
+Naar en ret Lvtie er delt vilkaarligt^ er 
+fire Gange det Rektangel^ der indesluttes af hele 
+Linien og et af Stykkerne samt Kvadratet paa 
+det andet Stykke lig det Kvadrat^ der er tegnet 
+paa hele Linien og det først( Stykke ud i eet. 
+
+
+
+8i 
+
+
+
+Lad nemlig en ret Linie AB være delt vil- 
+kaarligt i Punktet C. Jeg siger da: 4 1 | AB, BC 
+
+
+
++ □ AC er lig det Kvadrat, der er tegnet paa 
+AB, BC ud i eet. *) 
+
+Lad nemlig BD være afsat i Forlængelse 
+af AB, lad BD være afsat lig CB, lad der paa 
+AD være tegnet et Kvadrat AEFD, og lad 
+Figuren være 
+
+tegnet dobbelt. ^ ^ ^ ^ 
+
+Da nu CB er 
+lig BD, men CB 
+er lig GI, ogBD 
+er lig IM, saaer 
+GI = IM. Af 
+samme Grund er 
+PQ = QO. Og 
+da BC er lig BD, 
+
+og GI er lig IM, saa er CI = ID, og GQ = 
+QM ; men CI er lig QM, thi de ere Udfyldnings- 
+figurer i Parallelogram CO; altsaa er ogsaa ID 
+= GQ. Altsaa ere de fire DI, CI, GQ og QM 
+ligestore. Altsaa ere de fire tilsammen det fir- 
+dobbelte af CI. Da endvidere CB er lig BD, 
+og BD er lig BI, det vil sige CG, ogCB er lig 
+GI, det vil sige GP, saa er CG = GP. Og da 
+
+
+
+
+
+• 
+
+
+<.--■*•* 
+
+
+y 
+
+
+
+
+I 
+
+
+/c 
+
+
+/ 
+
+
+A 
+
+
+M 
+
+
+1 
+
+
+y 
+
+
+\ 
+
+
+
+
+
+
+1 
+
+
+/ 
+
+
+\ 
+
+
+
+
+
+
+\ 
+
+
+/ 
+
+
+1 
+
+
+
+
+^ 
+
+
+R 
+
+
+/ 
+
+
+t 
+
+
+
+
+
+
+
+P 
+
+
+^'' 
+
+
+
+
+/ 
+
+
+^-7" 
+
+
+
+
+
+
+
+K 
+
+
+
+*) 4 (a + b) b -f a« = (a + 2^^*. 
+
+
+
+82 
+
+CG er lig GP, og PQ er lig QO, er AG = LP, 
+og PK = QF; men LP er lig PK, thi de ere 
+Udfyldningsfigurer i Parallelogram LK; altsaa 
+er ogsaa AG = QF. Altsaa ere de fire AG, 
+LP, PK ogQF ligestore. Altsaa er de fire til- 
+sammen det firdobbelte af AG. Nu blev det 
+ogsaa bevist, at de fire CI, ID, GQ og QM til- 
+sammen er det firdobbelte af CI. Altsaa ere de 
+otte, som tilsammen danne Gnomon RST, det 
+firdobbelte af AI. Og da AI er □ AB, BD, 
+thi BI er lig BD, saa er 4QAB, BD det fir- 
+dobbelte af AI ; men det blev ogsaa bevist, at 
+Gnomon RST er det firdobbelte af AI; altsaa 
+er 4 □ AB, BD = Gnomon RST. Lad NH, 
+som er lig □ AC, være lagt til dem begge, saa 
+er 4 □ AB, BD + n AC ^ Gnomon RST + 
+NH. Men Gnomon RST -f-> NH er hele Kvadra- 
+tet AEFD, som er □ AD ; altsaa er 4 □ AB, BD 
++ □ AC = n AD. Men BD er lig BC. Altsaa 
+er 4 □ AB, BC + Q AC -:= □ AD, det vil sige 
+det Kvadrat, der er tegnet oaa AB og BC ud 
+i eet. 
+
+Altsaa : naar en ret Linie er delt vilkaarligt, 
+er fire Gange det Rektangel, der indesluttes af 
+hele Linien og et af Stykkerne, samt Kvadratet 
+oaa det andet Stykke lig det Kvadrat, der er 
+
+
+
+83 
+
+tegnet paa hele Linien og det første Stykke ud 
+i eet; h. s. b. 
+
+9- 
+
+Naar en ret Linie er delt i ligestore og i 
+uligestore Stykker y er Summen af Kvadraterne 
+paa hele Liniens uligestore Stykker dobbelt saa 
+stor som Summen af Kvadraterne paa Halvdelen 
+og paa Stykket mellem Delingspunkteme, 
+
+Lad nemlig en ret Linie AB være delt i 
+ligestore Stykker i C og i uligestore Stykker i 
+D. Jeg siger da: □ AD + □ DB = 2 □ AC 
++ 2nCD.*) 
+
+Lad nemlig, CE være oprejst fra C vinkel- 
+ret paa AB, lad den være afsat lig baade AC 
+og CB, lad EA og EB være dragne, lad DF 
+være trukken gennem D parallel med EC, FG 
+gennem F parallel med AB, og lad AF være 
+dragen. 
+
+Da nu AC er lig CE, er ^ EAC = Z. AEC. 
+Og da Vinkelen ved C er ret, saa ere de andre 
+Vinkler EAC og AEC tilsammen lig een ret; 
+og de ere ligestore ; hver af Vinklerne CE A og 
+CAE er altsaa en halv ret. Af samme Grund 
+
+
+
+*)a»+b*=2(i±^r+.(i±^-by 
+
+
+
+84 
+
+
+
+er da ogsaa hver af Vinklerne CEB og EBC 
+en halv ret. Altsaaerhele ^AEB ret. Og da 
+^ GEF er en halv ret, og A. EGF er ret, thi den er 
+lig den indvendige og modstaaende Vinkel ECB, 
+saa er den tredje Vinkel EFG en halv ret; 
+altsaa er ^ GEF = ^ EFG; følgelig er Side 
+EG lig Side GF. Da endvidere Vinkelen ved B er 
+en halv ret, og -«^FDB er ret, thi den er lig 
+den indvendige og modstaaende Vinkel ECB, 
+
+saa er den tredje Vin- 
+kel BFD en halv ret. 
+Altsaa er Vinkelen 
+ved B = ^ DFB; 
+følgelig er Side FD 
+lig Side DB. 
+
+Da nu AC er lig CE, 
+er n AC = n CE; altsaa er □ AC + D CE = 
+2 n AC. Men D AE er lig Q AC + D CE, 
+thi ^ ACE er ret; altsaa er □ E A = 2 □ AC. 
+Da endvidere EG er lig GF, er □ EG = □ GF ; 
+altsaa er Q EG + D GF = 2 Q GF. Men 
+DEF er lig QEG + QGF; altsaa er Q EF 
+= 2 n GF. Nu er GF lig CD ; altsaa er □ EF 
+= 2n CD. Desuden er □ EA = 2\J,hfZ\ 
+altsaa er □ AE + D EF = 2 □ AC + 2 □ CD. 
+Nu er n AF = n AE + D EF, thi Z. AEF 
+
+
+
+
+85 
+
+er ret; altsaa er QAF = 2nAC + 2GCD. 
+Men n AD + n DF er lig □ AF, thi Vinkelen 
+ved D er ret; altsaa er □ AD + □ DF = 
+2 □ AC + 2 n CD. Nu er DF lig DB; altsaa 
+er n AD + Q DB = 2 Q AC + 2 Q CD. 
+
+Altsaa: naar en ret Linie er delt i ligestore 
+og i uligestore Stykker, er Summen af Kvadra- 
+terne paa hele Liniens uligestore Stykker dobbelt 
+saa stor som Summen af Kvadraterne paa Halv- 
+delen og paa Stykket mellem Delingspunkterne ; 
+h. s. b. 
+
+10. 
+
+Naar en ret Linie er halveret^ og en anden 
+ret Linie er afsat i Forlængelse af den^ er 
+Summen af Kvadraterne paa hele Linien med 
+dens Forlængelse og paa Forlængelsen dobbelt 
+saa stor som. Summen af Kvadraterne paa Halv- 
+delen og paa den rette Linie, der er sammensat 
+af Halvdelen og Forlængelsen ud i eet. 
+
+Lad nemlig en ret Linie AB være halveret 
+i Punktet C, og lad en ret Linie BD være afsat 
+i Forlængelse af den. Jeg siger da : □ AD + 
+QDB = 2DAC + 2nCD.*) 
+
+
+
+*) (a 4- b)« + b« = 2 [^ +^ (y + ^ 
+
+
+
+86 
+
+
+
+I.F.5 
+
+
+
+Lad nemlig CE være oprejst fra C vinkelret 
+paa AB, lad den være afsat lig baade CA og 
+CB, og lad EA og EB være dragne; lad EF 
+være trukken gennem E parallel med AD, og 
+lad FD være trukken gennem D parallel med CE. 
+t)a nu en ret Linie EF har skaaret de parallele 
+rette Linier EC og FD, saa er A. CEF + Z. EFD 
+lig to rette; altsaa er ^ FEB + A. EFD mindre 
+end to rette. Men rette Linier mødes, naar de 
+
+forlænges ud fra Vinkler, 
+som ere mindre end to 
+rette ; altsaa ville EB og 
+FD mødes, naar de for- 
+længes til den Side, 
+hvor B og D ligge. Lad 
+dem være forlængede 
+og mødes i G, og lad AG være dragen. 
+
+Da nu AC er lig CE, er Z. EAC = Z AEC ; 
+men Vinkelen ved C er ret; altsaa er Z EAC 
+og ^AEC hver en halv ret. Af samme Grund 
+er ogsaa ^CEB og ^EBC.hver en halv ret; 
+altsaa er Z AEB ret. Og da Z EBC er en 
+halv ret, saa er Z DBG ogsaa en halv ret. 
+Fremdeles er ZL BDG ret, thi den er lig 
+Z DCE, fordi de ere Vekselvinkler; altsaa er 
+den tredje Vinkel DGB en halv ret. Altsaa er 
+'^GB = Z DBG; følgelig er Side BD lig 
+
+
+
+
+87 
+
+Side GD. Da endvidere Z^ EGF er en halv 
+ret, og Vinkelen ved F er ret, thi den er lig 
+den modstaaende Vinkel ved C, saa er den 
+tredje Vinkel FEG en halv ret, altsaa er Z^ EGF 
+= ZL FEG; følgelig er Side GF lig Side EF. 
+
+Da nu D EC er lig Q CA, saa er Q EC + 
+G CA = 2 D CA. Men □ EA er lig □ EC 
++ n CA; altsaa er □ EA = 2nCA. Da 
+endvidere FG er lig EF, er □ FG = □ FE 
+altsaa er Q GF + □ FE = 2 Q EF. Men 
+n EG er lig D GF + Q FE; altsaa er □ EG 
+= 2 □ EF. Nu er EF = CD ; altsaa er □ EG 
+= 2 □ CD. Men det blev ogsaa bevist, at 
+n EA er lig 2 □ AC. Altsaa er □ AE + 
+n EG = 2 n AC + 2 n CD. Men Q AG er 
+lig n AE + □ EG. Altsaa er □ AG == 
+2 n AC + 2 n CD. Nu er n AG = n AD 
++ □ DG; altsaa er □ AD + □ DG = 2 D AC 
++ 2 n CD. Men DG er lig DB. Altsaa er 
+nAD + DDB = 2nAC + 2nCD. 
+
+Altsaa: naar en ret Linie er halveret, og 
+en anden ret Linie er afsat i Forlængelse af 
+den, er Summen af Kvadraterne paa hele Linien 
+med dens Forlængelse og paa Forlængelsen 
+dobbelt saa stor som Summen af Kvadraterne 
+paa Halvdelen og paa den rette Linie, der er 
+
+
+
+88 
+
+
+
+sammensat af Halvdelen og Forlængelsen ud i 
+eet; h. s. b. 
+
+
+
+II. 6 
+
+
+
+II. 
+
+At dele en given ret Linie saaledeSy at det 
+Rektangel, der indesluttes af hele Linien og det 
+ene af Stykkerne^ er lig Kvadratet paa det andet 
+Stykke. 
+
+Lad AB være den givne rette Linie. Man 
+skal da dele den saaledes, at det Rektangel, der 
+indesluttes af hele Linien og det ene af Styk- 
+kerne, er lig Kvadratet paa det andet Stykke. 
+Lad der nemlig paa AB være tegnet et 
+Kvadrat ABDC, lad AC være halveret i Punkt 
+E, lad BE være dragen, lad CA være fortsat 
+til F, lad EF være afsat lig BE, lad der paa AF 
+være tegnet et Kvadrat FH, og lad GH være 
+
+fortsat til L Jeg siger da, 
+at AB er delt i H saaledes, at 
+I I AB, BH er lig Q AH. 
+
+Thi da den rette Linie 
+AC er halveret i E, og FA 
+er afsat i Forlængelse af den, 
+saa er □ CF, FA + Q AE 
+
+
+
+
+= DEF. Nu erEF = EB; 
+altsaa er [""] CF, FA + Q AE 
+
+
+
+89 
+
+= □ EB. Men □ BA + Q AE er lig □ EB, 
+thi Vinkelen vedA er ret; altsaa er | | CF, FA 
++ □ AE = □ BA + □ AE. Lad det 
+fælles Kvadrat paa AE være trukket fra, såa 
+er Resten □ CF, F A = Q AB. Men □ CF, FA 
+er FI, thi AF er lig FG, og □ AB er AD; 
+altsaa er FI = AD. Lad det fælles Rekt- 
+angel AI være trukket fra, saa er Resten 
+FH = HD. Men HD er QAB, BH, thi AB 
+er lig BD ; og FH er Q AH ; altsaa er □ AB, BH 
+= DHA. 
+
+Altsaa er den givne rette Linie AB delt i 
+H saaledes, at □ AB, BH er lig Q HA; h. s. g. 
+
+12. 
+
+/ en stumpvinklet Trekant er Kvadratet 
+paa den Side^ der Hgger overfor den stumpe 
+Vinkely større end Summen af Kvadraterne paa 
+de Sider, der indeslutte den stumpe Vinkel; og 
+Forskellen er to Gange det Rektangel, der inde- 
+sluttes af den af Siderne ved den stumpe Vinkel, 
+paa hvilken den lodrette fældes^ og det Stykke^ 
+der af den lodrette afskæres udenfor ved den 
+stumpe Vinkel, 
+
+Lad ABC være en stumpvinklet Trekant, 
+hvor ^ BAC er stump, og lad der fra Punkt 
+
+
+
+2035 16 
+
+
+
+90 
+
+B være nedfældet BD lodret paa den forlængede 
+CA. Jeg siger da, at □ BC er større end □ CA 
++ n AB, og at Forskellen er 2 □ CA, AD. 
+Thi da den rette Linie CD er delt vilkaar- 
+II. 4 ligt i Punkt A, saa er □ DC = Q CA + □ AD 
++ 2 □ CA, AD. Lad □ DB være lagt til dem 
+begge, saa er Q CD + □ DB = □ CA + 
+QAD + nOB +2QCA,AD. MenCJCB 
+
+er lig D CD + n DB, 
+thi Vinkelen ved D er 
+er ret; og □ AB er 
+lig D AD + DDB; 
+altsaa er □ CB = 
+n CA + □ AB + 
+CA, AD. Følgelig er □ CB større end 
+
+
+
+
+□ CA + n AB, og Forskellen er 2 □ CA, AD. 
+Altsaa: i en stumpvinklet Trekant er Kva- 
+dratet paa den Side, der ligger overfor den 
+stumpe Vinkel, større end Summen af Kva- 
+draterne paa de Sider, der indeslutte den 
+stumpe Vinkel; og Forskellen er to Gange det 
+Rektangel, der indesluttes af den af Siderne ved 
+den stumpe Vinkel, paa hvilken den lodrette 
+fældes, og det Stykke, der af den lodrette af- 
+skæres udenfor ved den stumpe Vinkel; h. s. b. 
+
+
+
+91 
+
+
+
+13- 
+
+/ en spidsvinklet Trekant er Kvadratet paa 
+den Side, der ligger overfor den spidse Vinkel, 
+mindre end Summen af Kvadraterne paa de 
+Sider, der indeslutte den spidse Vinkel; og For- 
+skellen er to Gange det Rektangel^ der inde- 
+sluttes af den af Siderne ved den spidse Vinkel^ 
+paa hvilken den lodrette fældes^ og det Stykke, 
+der af den lodrette afskæres udenfor ved dm 
+spidse VinkeL 
+
+Lad ABC være en spidsvinklet Trekant, 
+hvor Vinkelen ved B er spids, og lad AD være 
+nedfældet fra Punkt A lodret paa BC. Jeg siger 
+da, at n AC er mindre end D CB + Q BA, 
+og at Forskellen er 2 [~| CB, BD. 
+
+
+
+Thi da den rette Linie CB er delt vilkaar- 
+ligt i D, saa er □ CB + 
+
+CB, BD + 
+
+
+
+IL 7 
+
+
+
+n BD = 2 
+
+□ DC. Lad □ DA være 
+lagt til dem begge, saa er 
+
+nCB + DBD + QDA 
+
+= 2 □ CB, BD + n AD 
+
++ □ DC. Men □ AB er 
+
+lig nBD + DDA, thi Vinkelen ved Der ret; 
+
+og □ AC er lig Q AD + D DC; altsaa er 
+
+
+
+
+92 
+
+n CB + □ BA = n AC + 2 □ CB, BD. 
+Følgelig er □ AC alene mindre end □ CB + 
+□ BA, og Forskellen er 2 □ CB, BD. 
+
+Altsaa: i en spidsvinklet Trekant er Kva- 
+dratet paa den Side, der ligger overfor den 
+spidse Vinkel, mindre end Summen af Kvadra- 
+terne paa de Sider, der indeslutte den spidse 
+Vinkel; og Forskellen er to Gange det Rekt- 
+angel, der indesluttes af den af Siderne ved den 
+spidse Vinkel, paa hvilken Højden fældes, og 
+det Stykke, der af den lodrette afskæres udenfor 
+ved den spidse Vinkel; h. s. b. 
+
+14. 
+
+At konstruere et Kvadrat lig en given ret- 
+linet Figur. 
+
+Lad A være den givne retlinede Figur. 
+Man skal da konstruere et Kvadrat lig den ret- 
+linede Figur A. 
+I. 45 Lad der nemlig være konstrueret et Rekt- 
+
+angel BD lig den retlinede Figur A. Hvis 
+BE saa er lig ED, vil det forlangte være 
+udført; thi saa er der konstrueret et Kvadrat 
+BD lig den retlinede Figur A. Men hvis 
+ikke, er en af Siderne BE og ED større end 
+
+
+
+93 
+
+den anden. LadBE være størst, lad den være 
+forlænget til F, lad EF være afsat lig ED, lad 
+BF være halveret i G, lad Halvcirkel BHF være 
+tegnet med G som Centrum og GB eller GF 
+som Radius, lad DE være forlænget til H, og 
+lad GH være dragen. 
+
+Da nu den rette Linie BF er delt i lige- 
+store Stykker i G og i uligestore Stykker i E, 
+
+
+
+
+saa er □ BE, EF + □ EG = Q GF. Men ii. 5 
+GF er lig GH ; altsaa er □ BE, EF + □ GE 
+
+
+
+= DGH. Og QHE + QEG er lig \J GH; 
+altsaa er □ BE, EF + □ GE = Q HE + 
+□ EG. Lad det fælles Kvadrat paa GE være 
+trukket fra, saa er Resten [^ BE, EF = □ EH. 
+Men QBE, EF er BD, thi EF er lig ED; 
+altsaa er BD = Q HE. Men BD er lig den 
+retlinede Figur A. Altsaa er den retlinede 
+
+
+
+94 
+
+Figur A ogsaa lig det Kvadrat, som kan tegnes 
+paa EH. 
+
+Altsaa er der konstrueret et Kvadrat lig 
+den givne retlinede Figur A, nemlig det der 
+kan tegnes paa EH; h. s. g. 
+
+
+
+^ Cl. 
+
+
+
+MAY 1 2 1938 
+
+
+
+, . <.• 

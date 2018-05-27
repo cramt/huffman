@@ -12,11 +12,19 @@ namespace huffman {
     class Program {
         public const string OUTPUT_DIR = "output";
         static void Main(string[] args) {
-            //HuffmanTree.EncodingType = Encoding.UTF8;
+            HuffmanTree.EncodingType = Encoding.UTF8;
             List<Article> articles = new List<Article> {
                 new Article() {
                     title = "den danske grundlov",
                     extract = SomeRandomText.DenDanskeGrundlov
+                },
+                new Article() {
+                    title = "mini srp infohæfte 2018",
+                    extract = File.ReadAllText(@"E:\Libraries\Documents\Visual Studio 2017\Projects\huffman\huffman\MiniSRPinfohæfte2018.txt")
+                },
+                new Article() {
+                    title = "euklids elementer",
+                    extract = File.ReadAllText(@"E:\Libraries\Documents\Visual Studio 2017\Projects\huffman\huffman\EuklidsElementer.txt")
                 }
             };
             if (Directory.Exists(OUTPUT_DIR)) {
@@ -53,8 +61,8 @@ namespace huffman {
                 File.WriteAllLines(statsFilePath, new string[]{
                     "original size: " + (article.extract.Length * 8) + " b",
                     "compressed size: " + encodedData.Length + " b",
-                    "compression percentage: " + (100*((double)encodedData.Length/((double)article.extract.Length * 8))) + "%",
-                    "tree size as json: " + (tree.JSONEncode().Length * 8) + " b",
+                    "compression percentage: " + (100*((double)encodedData.Length/((double)HuffmanTree.EncodingType.GetBytes(article.extract).Length))) + "%",
+                    "tree size as json: " + (HuffmanTree.EncodingType.GetBytes(tree.JSONEncode()).Length) + " b",
                     "tree size as bytes: " + (new Func<string>(() => {
                         byte[] bytes;
                         IFormatter formatter = new BinaryFormatter();
