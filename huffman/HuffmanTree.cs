@@ -16,19 +16,19 @@ namespace huffman {
 
         // The "root" of the Huffman tree, which is the upmost node
         // It is read only for everything outside the class
-        // "Roden" på Huffman-træet, hvilket er den øverste knudepunkt
-        // Den er kun læst for alt uden for klassen
+        // "Roden" på Huffman-træet, hvilket er den øverste node
+        // Den er kan ikke skrives til uden for klassen
         public HuffmanNode Root { get; } = null;
         // The constructor sets the Root property, based on its argument
-        // "Constructoren" sætter Roden, eller "Root", baseret på dets argument
+        // Constructor'en sætter Roden, eller "Root", baseret på dets argument
         public HuffmanTree(HuffmanNode node) {
             Root = node;
         }
         // This method json serializes the tree
         // json is choosen since it is the easiest for other programs to deserialize
         // and for humans to read
-        // I funktionen serialiserer json træet
-        // json er valgt siden at det er det er nemt for andre programmer at læse eller "deserialisere"
+        // I funktionen json serialiserer træet
+        // json er valgt siden at det er det er nemt for andre programmer at læse eller deserialisere
         // Samtidigt er det også nemt for mennesker at læse
         public string JSONEncode() {
             return JSONAbleHuffmanNode.Parse(Root).Serialize();
@@ -37,10 +37,10 @@ namespace huffman {
         // Denne funktion enkoder tekst baseret på det foregående træ
         public byte[] Encode(string text) {
             // a local recursive function to convert a character into an array of bits based on the root huffman node
-            // En lokal rekursiv funktion for at konvertere et symbol om til et array af bits baseret på Hoffman-nodens rod
+            // En lokal rekursiv funktion for at konvertere et symbol om til et array af bits baseret på Hoffman nodens rod
             BitArray convertToBitarray(HuffmanNode n, char c) {
                 // if we found a leaf, return the code
-                // Hvis der findes en 'gren', returnerer koden
+                // Hvis det er et blad, returnerer koden
                 if (n.IsLeaf) {
                     return n.Code;
                 }
@@ -62,7 +62,7 @@ namespace huffman {
             // Ny liste for bitsene
             BitList bits = new BitList();
             // make the text into a character array, and loop trough it
-            // Lav teksten om til et symbol-array, og gentag igennem det
+            // Lav teksten om til et symbol-array, og loop igennem det
             text.ToCharArray().ToList().ForEach(x => {
                 // Use the recursive function from before to calculate the bits
                 // Add the bits to the list of bits
@@ -82,7 +82,7 @@ namespace huffman {
             // Der laves et array over bytes
             byte[] bytes = new byte[bits.Count / 8];
             // Copy the array of bits to the array of bytes
-            // Listen over bits indsættes ind i listen over bytes
+            // array over bits indsættes ind i array over bytes
             bits.ToBitArray().CopyTo(bytes, 0);
             // Return the bytes
             // Returner bytes
@@ -128,23 +128,23 @@ namespace huffman {
             // strengen der skal indehold den afkodede streng laves
             string str = "";
             // define a variable to hold the current node that we are on
-            // Der defineres en variabel til at holde det nuværende knudepunkt der kigges på
+            // Der defineres en variabel til at holde det nuværende node der kigges på
             HuffmanNode currentNode = Root;
             // loop thought all the bits
             // Kør igennem alle bits
             for (int i = 0; i < bits.Count; i++) {
                 // if it is a 1, take the right node
-                // Hvis det er et 1, tag højre knude
+                // Hvis det er et 1, tag højre node
                 if (bits[i]) {
                     currentNode = currentNode.RightChildNode;
                 }
                 // if it is a 0, take the left node
-                // Hvis det er et 0, tag venstre knude
+                // Hvis det er et 0, tag venstre node
                 else {
                     currentNode = currentNode.LeftChildNode;
                 }
                 // if the current node is a leaf
-                // Hvis den nuværende knude er et blad
+                // Hvis den nuværende node er et blad
                 if (currentNode.IsLeaf) {
                     // add the symbol to the str variable
                     // Tilføj symbolet til streng-variablen "str"
@@ -174,15 +174,15 @@ namespace huffman {
                 // Symbolerne som strenge
                 string read = characters[i].ToString();
                 // has the node already been created?
-                // Er knuden allerede blevet skabt?
+                // Er noden allerede blevet skabt?
                 if (nodeList.Exists(x => x.Symbol == read)) {
                     // If is yes, find the index of the Node and increase the frequency of the Node.
-                    // Hvis ja, find indekset for knuden og øg frekvensen for knuden
+                    // Hvis ja, find indekset for noden og øg frekvensen for node
                     nodeList[nodeList.FindIndex(y => y.Symbol == read)].Frequency++;
                 }
                 else {
                     // If is no, create a new node and add to the List of Nodes
-                    // Hvis nej, skab en ny knude og tilføj den til listen over knuder
+                    // Hvis nej, skab en ny node og tilføj den til listen over node
                     nodeList.Add(new HuffmanNode(read));
                 }
             }
@@ -193,7 +193,7 @@ namespace huffman {
             // Kør igennem dem alle sammen indtil der kun er en tilbage
             while (nodeList.Count > 1) {
                 // Get the node of the first index of List, this is the one with the lowest frequency
-                // Få knuden for det første indeks af Listen, dette er den med den laveste frekvens
+                // Få noden for det første indeks af Listen, dette er den med den laveste frekvens
                 HuffmanNode node1 = nodeList[0];
                 // and delete it.
                 // Fjern den
@@ -203,14 +203,14 @@ namespace huffman {
                 HuffmanNode node2 = nodeList[0];
                 nodeList.RemoveAt(0);
                 // make a parant node with node1 and node2 and the left and right child nodes
-                // Lav en parent-knude med node1 og node1 og de venstre og højre child-knuder
+                // Lav en parent-node med node1 og node1 og de venstre og højre child-noder
                 nodeList.Add(new HuffmanNode(node1, node2));
                 // and sort it again according to frequency.
                 // Og sorter det igen efter frekvens
                 nodeList.Sort();
             }
             // create a tree based on the remaining root node
-            // Lav et træ baseret på den tilbageværende rod-knude
+            // Lav et træ baseret på den tilbageværende rod-node
             HuffmanTree tree = new HuffmanTree(nodeList[0]);
             // this is a recursive function to set the binary code of every leaf node
             // Dette er en rekursiv funktion for at sætte den binære værdi for hvert blad
@@ -226,28 +226,28 @@ namespace huffman {
                     return;
                 }
                 // if there is no left node and right node, then set the code based on the current code
-                // Hvis der ikke er nogen venstre knude, sæt koden baseret på den nuværende kode
+                // Hvis der ikke er nogen venstre node, sæt koden baseret på den nuværende kode
                 if (Nodes.LeftChildNode == null && Nodes.RightChildNode == null) {
                     Nodes.Code = code;
                     return;
                 }
                 // create a bitlist for the left node
-                // lav en bitliste for den venstre knude
+                // lav en bitliste for den venstre node
                 BitList left = BitList.Parse(code);
                 // add false for the left side
                 // tilføj false for den venstre side
                 left.Add(false);
                 // call this function recursively, with the left bitlist and the left side node
-                // Kald denne funktion rekursivt, med den venstre bitliste og den venstre knude
+                // Kald denne funktion rekursivt, med den venstre bitliste og den venstre node
                 setCodeToTheTree(Nodes.LeftChildNode, left.ToBitArray());
                 // create a bitlist for the right node
-                // Lav en bitliste for den højre knude
+                // Lav en bitliste for den højre node
                 BitList right = BitList.Parse(code);
                 // add true for the right side
                 // tilføj true for den højre side
                 right.Add(true);
                 // call the function recursively, with the right bitlist and the right side node
-                // Kald denne funktion rekursivt, med den højre bitliste og den højre knude
+                // Kald denne funktion rekursivt, med den højre bitliste og den højre node
                 setCodeToTheTree(Nodes.RightChildNode, right.ToBitArray());
             }
             // call the recursive function
@@ -273,7 +273,7 @@ namespace huffman {
         // Dette er en rekursiv funktion for at udskrive træet
         public void PrintTree(int level, HuffmanNode node = null) {
             // if node is null use the root
-            // Hvis knuden er null benyttes roden
+            // Hvis noden er null benyttes roden
             if (node == null) {
                 node = Root;
             }
@@ -295,7 +295,7 @@ namespace huffman {
             // Sæt farven tilbage til normal
             SetColorDefault();
             // call this method recursivly with the right and left node, and one more level
-            // Kald denne funktion rekursivt med den højre og venstre knude, og endnu et niveau
+            // Kald denne funktion rekursivt med den højre og venstre node, og endnu et niveau
             PrintTree(level + 1, node.RightChildNode);
             PrintTree(level + 1, node.LeftChildNode);
         }
@@ -305,7 +305,7 @@ namespace huffman {
         // Dette er en rekursiv funktion for at udskrive den information, men ikke som et træ ligesom før
         public void PrintInformation(HuffmanNode node = null) {
             // if node is null use the root
-            // Hvis knuden er null benyttes roden
+            // Hvis noden er null benyttes roden
             if (node == null) {
                 node = Root;
             }
@@ -325,18 +325,18 @@ namespace huffman {
         // Dette er en rekursiv funktion for at udskrive den information, men kun de venstre blade
         public void PrintfLeafAndCodes(HuffmanNode node = null) {
             // if node is null use the root
-            // Hvis knuden er null benyttes roden
+            // Hvis noden er null benyttes roden
             if (node == null) {
                 node = Root;
             }
             // if there is no left and right node, print the symbol, code and frequency. Then return
-            // Hvis der ikke er nogen venstre knude, udskriv symbolet, koden og frekvensen. Derefter returner
+            // Hvis der ikke er nogen venstre node, udskriv symbolet, koden og frekvensen. Derefter returner
             if (node.LeftChildNode == null && node.RightChildNode == null) {
                 Console.WriteLine("Symbol : " + node.Symbol + " -  Code : " + node.Code.Print() + " - Frequency : " + node.Frequency);
                 return;
             }
             // recursivly call this method for the left and right node
-            // Rekursivt kald denne funktion for den venstre og højre knude
+            // Rekursivt kald denne funktion for den venstre og højre node
             PrintfLeafAndCodes(node.LeftChildNode);
             PrintfLeafAndCodes(node.RightChildNode);
         }
