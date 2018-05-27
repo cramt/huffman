@@ -25,6 +25,10 @@ namespace huffman {
                 new Article() {
                     title = "euklids elementer",
                     extract = File.ReadAllText(@"E:\Libraries\Documents\Visual Studio 2017\Projects\huffman\huffman\EuklidsElementer.txt")
+                },
+                new Article() {
+                    title = "problemformulering",
+                    extract = "problemformulering"
                 }
             };
             if (Directory.Exists(OUTPUT_DIR)) {
