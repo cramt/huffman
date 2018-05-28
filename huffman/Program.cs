@@ -12,19 +12,20 @@ namespace huffman {
     class Program {
         public const string OUTPUT_DIR = "output";
         static void Main(string[] args) {
+            var dir = Directory.GetParent(Directory.GetParent(Directory.GetParent(Environment.CurrentDirectory).FullName).FullName).FullName;
             HuffmanTree.EncodingType = Encoding.UTF8;
             List<Article> articles = new List<Article> {
                 new Article() {
                     title = "den danske grundlov",
-                    extract = SomeRandomText.DenDanskeGrundlov
+                    extract = File.ReadAllText(Path.Combine(dir, "DenDanskeGrundlov.txt"))
                 },
                 new Article() {
                     title = "mini srp infohæfte 2018",
-                    extract = File.ReadAllText(@"E:\Libraries\Documents\Visual Studio 2017\Projects\huffman\huffman\MiniSRPinfohæfte2018.txt")
+                    extract = File.ReadAllText(Path.Combine(dir, "MiniSRPinfohæfte2018.txt"))
                 },
                 new Article() {
                     title = "euklids elementer",
-                    extract = File.ReadAllText(@"E:\Libraries\Documents\Visual Studio 2017\Projects\huffman\huffman\EuklidsElementer.txt")
+                    extract = File.ReadAllText(Path.Combine(dir, "EuklidsElementer.txt"))
                 },
                 new Article() {
                     title = "problemformulering",
@@ -41,6 +42,15 @@ namespace huffman {
                 var treeFilePath = Path.Combine(subDir.FullName, "tree.json");
                 File.Create(treeFilePath).Close();
                 File.WriteAllText(treeFilePath, tree.JSONEncode());
+
+                var treeByteFilePath = Path.Combine(subDir.FullName, "tree");
+                File.Create(treeByteFilePath).Close();
+                File.WriteAllBytes(treeByteFilePath, (new Func<byte[]>(() => {
+                    IFormatter formatter = new BinaryFormatter();
+                    MemoryStream stream = new MemoryStream();
+                    formatter.Serialize(stream, tree);
+                    return stream.ToArray();
+                }))());
 
                 var originalFilePath = Path.Combine(subDir.FullName, "original.txt");
                 File.Create(originalFilePath).Close();

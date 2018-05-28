@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace huffman {
-    class SomeRandomText {
-        public static string DenDanskeGrundlov = "" +
-@"
+﻿
 
      § 3. Den lovgivende magt er hos kongen og folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene.
 
@@ -304,6 +297,3 @@ Kapitel XI.
      § 89. Denne grundlov træder i kraft straks. Dog vedbliver den i henhold til Danmarks Riges Grundlov af 5. juni 1915 med ændringer af 10. september 1920 senest valgte rigsdag at bestå, indtil nyvalg har fundet sted i overensstemmelse med reglerne i kapitel IV. Indtil nyvalg har fundet sted, forbliver de i Danmarks Riges Grundlov af 5. juni 1915 med ændringer af 10. september 1920 for rigsdagen fastsatte bestemmelser i kraft.
 
 Så er da nu gældende ret, alle til ubrødelig efterlevelse,
-";
-    }
-}
