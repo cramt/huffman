@@ -76,7 +76,7 @@ namespace huffman {
                         }
                         return "" + bytes.Length;
                     }))() + " b",
-                    "lossness: " + (article.extract == decodedData ? "yes" : (new Func<string>(()=>{
+                    "lossless: " + (article.extract == decodedData ? "yes" : (new Func<string>(()=>{
                         string re = "no" + Environment.NewLine;
                         if(article.extract.Length == decodedData.Length) {
                             List<string> errors = new List<string>();
