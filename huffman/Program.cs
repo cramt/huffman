@@ -63,9 +63,13 @@ namespace huffman {
                 var statsFilePath = Path.Combine(subDir.FullName, "stats.txt");
                 File.Create(statsFilePath).Close();
                 File.WriteAllLines(statsFilePath, new string[]{
-                    "original size: " + (article.extract.Length * 8) + " b",
+                    "original size: " + HuffmanTree.EncodingType.GetBytes(article.extract).Length + " b",
                     "compressed size: " + encodedData.Length + " b",
-                    "compression percentage: " + (100*((double)encodedData.Length/((double)HuffmanTree.EncodingType.GetBytes(article.extract).Length))) + "%",
+                    "compression percentage: " + (new Func<string>(() => {
+                        var encoded = (double)encodedData.Length;
+                        var original =(double)HuffmanTree.EncodingType.GetBytes(article.extract).Length;
+                        return ((encoded/original)*100) + "%";
+                    }))(),
                     "tree size as json: " + (HuffmanTree.EncodingType.GetBytes(tree.JSONEncode()).Length) + " b",
                     "tree size as bytes: " + (new Func<string>(() => {
                         byte[] bytes;
